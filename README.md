@@ -60,7 +60,6 @@ Quick mode uses fewer random seeds and must not be used to reproduce the final n
 - `run_exp3_mpc.m`: MPC comparison, ablation, and sensitivity studies
 - `simulate_mpc.m`: closed-loop MPC simulation
 - `admm_coord.m`: distributed ADMM coordination
-- `make_figures.m`: generation of publication figures
 
 ## Reproducibility notes
 
