@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software or its accompanying datasets, please cite the associated paper."
-title: "Physics-Informed E-SINDy-MPC for Coordinated Optimal Dispatch of Hydro, Wind, Solar, and Pumped Storage Multi-Energy Systems"
+title: "Physics-Informed E-SINDy-MPC for Coordinated Optimal Dispatch of Hydro-Wind-Solar-Pumped Storage Multi-Energy Systems"
 type: software
 version: 1.0.0
 date-released: 2026-09-24
@@ -24,7 +24,7 @@ keywords:
   - hydro-wind-solar-pumped-storage systems
 preferred-citation:
   type: article
-  title: "Physics-Informed E-SINDy-MPC for Coordinated Optimal Dispatch of Hydro, Wind, Solar, and Pumped Storage Multi-Energy Systems"
+  title: "Physics-Informed E-SINDy-MPC for Coordinated Optimal Dispatch of Hydro-Wind-Solar-Pumped Storage Multi-Energy Systems"
   authors:
     - family-names: Feng
       given-names: Zixi
