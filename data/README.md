@@ -46,7 +46,7 @@ These values correspond to Table 5-1 of the paper.
 - Power variables are expressed in MW.
 - Stored energy is expressed in MWh.
 - Time resolution is expressed in minutes.
-- Tariffs are stored in CNY/MWh and converted in `load_dataset.m` using the same factor as the reported experiments.
+- Electricity tariffs are stored in CNY/MWh in the CSV files and converted to USD/MWh in load_dataset.m using an exchange rate of 7.2 CNY/USD. Accordingly,   the total dispatch costs reported by the program are expressed in million USD.
 - Pumped-storage generation and pumping are stored as separate nonnegative variables.
 - `Scenario index` and `Window index` identify independent sequences and prevent prediction horizons from crossing scenario boundaries.
 
