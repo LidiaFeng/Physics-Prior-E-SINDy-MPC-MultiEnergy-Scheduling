@@ -1,0 +1,2341 @@
+Scenario,Method,Step,Scenario group,Coordination solved,Solve time_ms,Solve succeeded,ADMM iterations,Primal residual_MW,Dual residual_MW
+"Low data, high noise",Centralized MPC,1,3,1,148.5489,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,2,3,1,70.1461,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,3,3,1,30.2086,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,4,3,1,111.4053,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,5,3,1,80.6717,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,6,3,1,10.3247,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,7,3,1,6.1495,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,8,3,1,7.1802,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,9,3,1,6.0858,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,10,3,1,6.7681,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,11,3,1,6.6222,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,12,3,1,7.6642,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,13,3,1,6.3781,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,14,3,1,6.1015,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,15,3,1,6.5819,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,16,3,1,6.1654,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,17,3,1,5.7425,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,18,3,1,5.8543,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,19,3,1,5.8428,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,20,3,1,5.8794,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,21,3,1,6.4092,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,22,3,1,6.0674,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,23,3,1,6.0477,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,24,3,1,6.3955,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,25,3,1,6.605,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,26,3,1,6.2517,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,27,3,1,5.9313,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,28,3,1,6.0182,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,29,3,1,5.9868,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,30,3,1,6.3103,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,31,3,1,5.716,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,32,3,1,5.9397,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,33,3,1,5.6883,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,34,3,1,5.7339,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,35,3,1,5.8019,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,36,3,1,5.6864,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,37,3,1,6.2178,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,38,3,1,5.7642,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,39,3,1,5.8593,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,40,3,1,5.9673,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,41,3,1,5.9455,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,42,3,1,5.9172,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,43,3,1,5.8399,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,44,3,1,5.591,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,45,3,1,5.3968,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,46,3,1,5.7673,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,47,3,1,6.2238,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,48,3,1,5.6265,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,49,3,1,6.4561,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,50,3,1,5.4353,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,51,3,1,6.0435,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,52,3,1,5.915,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,53,3,1,5.5632,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,54,3,1,6.1247,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,55,3,1,5.9051,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,56,3,1,5.7126,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,57,3,1,7.5019,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,58,3,1,6.3733,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,59,3,1,6.687,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,60,3,1,6.2547,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,61,3,1,6.5592,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,62,3,1,6.0244,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,63,3,1,5.609,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,64,3,1,6.2848,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,65,3,1,5.9278,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,66,3,1,6.058,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,67,3,1,6.3155,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,68,3,1,5.8725,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,69,3,1,6.0765,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,70,3,1,6.8664,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,71,3,1,6.991,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,72,3,1,6.9889,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,73,3,1,6.0495,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,74,3,1,6.5478,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,75,3,1,6.3163,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,76,3,1,6.0739,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,77,3,1,6.6715,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,78,3,1,6.0248,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,79,3,1,6.0728,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,80,3,1,6.2041,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,81,3,1,6.5964,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,82,3,1,5.9724,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,83,3,1,6.0069,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,84,3,1,5.7105,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,85,3,1,6.3562,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,86,3,1,6.5771,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,87,3,1,5.9342,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,88,3,1,6.0039,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,89,3,1,5.6676,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,90,3,1,5.7196,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,91,3,1,5.7951,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,92,3,1,6.3939,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,93,3,1,5.7772,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,94,3,1,6.3391,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,95,3,1,5.6788,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,96,3,1,5.2458,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,97,3,1,5.8459,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,98,3,1,4.5095,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,99,3,1,4.3439,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,100,3,1,78.4498,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,101,11,1,10.3761,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,102,11,1,5.8139,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,103,11,1,5.6653,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,104,11,1,5.7155,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,105,11,1,5.6865,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,106,11,1,5.6764,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,107,11,1,5.577,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,108,11,1,5.5092,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,109,11,1,5.6544,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,110,11,1,5.7022,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,111,11,1,5.5467,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,112,11,1,6.0995,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,113,11,1,5.6423,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,114,11,1,5.7009,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,115,11,1,5.6633,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,116,11,1,5.7144,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,117,11,1,5.7243,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,118,11,1,5.7623,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,119,11,1,5.6688,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,120,11,1,5.9788,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,121,11,1,6.5176,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,122,11,1,5.8286,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,123,11,1,5.7354,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,124,11,1,6.4241,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,125,11,1,6.2863,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,126,11,1,5.9986,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,127,11,1,6.2545,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,128,11,1,5.9385,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,129,11,1,6.3568,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,130,11,1,5.7582,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,131,11,1,5.4359,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,132,11,1,6.2472,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,133,11,1,5.6799,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,134,11,1,5.5529,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,135,11,1,5.9619,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,136,11,1,5.826,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,137,11,1,5.6477,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,138,11,1,5.8075,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,139,11,1,5.6535,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,140,11,1,6.2681,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,141,11,1,5.8264,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,142,11,1,6.0128,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,143,11,1,6.062,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,144,11,1,5.7624,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,145,11,1,6.1233,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,146,11,1,6.0199,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,147,11,1,6.0595,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,148,11,1,6.7387,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,149,11,1,5.8212,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,150,11,1,5.8689,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,151,11,1,6.0383,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,152,11,1,5.7718,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,153,11,1,6.1168,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,154,11,1,5.8459,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,155,11,1,5.8726,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,156,11,1,5.9913,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,157,11,1,5.828,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,158,11,1,6.0881,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,159,11,1,5.8518,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,160,11,1,5.8074,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,161,11,1,5.7331,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,162,11,1,5.6517,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,163,11,1,5.5431,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,164,11,1,5.6758,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,165,11,1,5.7434,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,166,11,1,5.5628,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,167,11,1,5.5893,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,168,11,1,5.6198,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,169,11,1,5.7028,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,170,11,1,6.3684,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,171,11,1,6.3212,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,172,11,1,6.0849,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,173,11,1,5.907,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,174,11,1,5.75,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,175,11,1,5.8247,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,176,11,1,5.6267,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,177,11,1,5.8423,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,178,11,1,5.644,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,179,11,1,5.5481,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,180,11,1,5.9367,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,181,11,1,5.4287,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,182,11,1,5.5159,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,183,11,1,5.7878,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,184,11,1,6.0247,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,185,11,1,7.0933,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,186,11,1,5.6162,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,187,11,1,6.0625,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,188,11,1,6.0372,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,189,11,1,6.2969,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,190,11,1,8.0057,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,191,11,1,5.6652,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,192,11,1,5.4725,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,193,11,1,7.1147,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,194,11,1,5.1536,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,195,11,1,5.403,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,196,11,1,4.9762,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,197,11,1,4.2068,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,198,11,1,4.0111,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,199,11,1,3.6448,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,200,11,1,10.589,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,201,17,1,6.2661,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,202,17,1,5.8321,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,203,17,1,5.7165,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,204,17,1,5.37,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,205,17,1,5.6269,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,206,17,1,5.572,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,207,17,1,5.4307,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,208,17,1,5.4155,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,209,17,1,5.7525,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,210,17,1,5.3576,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,211,17,1,5.9749,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,212,17,1,5.7516,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,213,17,1,5.5319,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,214,17,1,5.9674,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,215,17,1,6.2027,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,216,17,1,6.5728,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,217,17,1,6.2196,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,218,17,1,5.892,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,219,17,1,5.6483,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,220,17,1,5.517,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,221,17,1,5.5032,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,222,17,1,5.7048,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,223,17,1,5.6567,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,224,17,1,5.4297,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,225,17,1,5.8822,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,226,17,1,5.6007,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,227,17,1,6.0476,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,228,17,1,5.8227,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,229,17,1,5.8637,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,230,17,1,7.144,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,231,17,1,5.9839,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,232,17,1,5.9345,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,233,17,1,6.1171,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,234,17,1,6.0758,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,235,17,1,6.8149,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,236,17,1,6.0191,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,237,17,1,6.9091,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,238,17,1,6.1925,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,239,17,1,5.739,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,240,17,1,7.4476,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,241,17,1,6.0994,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,242,17,1,6.3931,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,243,17,1,5.9635,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,244,17,1,5.9732,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,245,17,1,6.657,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,246,17,1,6.281,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,247,17,1,6.9354,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,248,17,1,6.3209,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,249,17,1,6.7396,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,250,17,1,6.0584,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,251,17,1,5.5854,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,252,17,1,5.6754,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,253,17,1,5.7773,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,254,17,1,6.5031,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,255,17,1,6.3212,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,256,17,1,6.2377,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,257,17,1,6.1251,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,258,17,1,6.0197,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,259,17,1,6.224,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,260,17,1,6.7345,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,261,17,1,6.0799,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,262,17,1,6.4042,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,263,17,1,6.0049,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,264,17,1,7.0809,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,265,17,1,6.1841,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,266,17,1,5.6622,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,267,17,1,7.5061,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,268,17,1,5.6982,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,269,17,1,6.0349,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,270,17,1,6.2557,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,271,17,1,5.8243,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,272,17,1,7.4066,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,273,17,1,6.0755,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,274,17,1,6.0349,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,275,17,1,5.9011,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,276,17,1,5.9457,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,277,17,1,6.0072,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,278,17,1,5.8902,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,279,17,1,5.8419,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,280,17,1,5.7595,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,281,17,1,6.025,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,282,17,1,6.1272,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,283,17,1,5.9678,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,284,17,1,5.8549,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,285,17,1,6.0062,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,286,17,1,8.1937,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,287,17,1,8.8126,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,288,17,1,6.8312,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,289,17,1,5.8856,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,290,17,1,5.7351,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,291,17,1,5.7307,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,292,17,1,5.658,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,293,17,1,5.6029,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,294,17,1,5.3657,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,295,17,1,4.9535,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,296,17,1,4.6116,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,297,17,1,5.2497,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,298,17,1,4.5465,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,299,17,1,3.8077,1,NaN,NaN,NaN
+"Low data, high noise",Centralized MPC,300,17,1,15.9951,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,1,3,1,229.1665,1,17,0.0409330313964972,6.10633974410542
+"Low data, high noise",Periodic-DMPC,2,3,0,0.7699,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,3,3,0,0.4041,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,4,3,0,0.3223,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,5,3,1,65.1914,1,10,21.3879190330936,15.3904089300602
+"Low data, high noise",Periodic-DMPC,6,3,0,0.5125,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,7,3,0,4.4249,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,8,3,0,0.063,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,9,3,1,96.7101,1,21,18.520852406024,13.2124800162233
+"Low data, high noise",Periodic-DMPC,10,3,0,0.0414,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,11,3,0,0.0149,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,12,3,0,0.0132,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,13,3,1,125.5479,1,30,1.67456780305559e-07,167.430463516375
+"Low data, high noise",Periodic-DMPC,14,3,0,0.0398,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,15,3,0,0.0146,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,16,3,0,0.0132,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,17,3,1,74.2545,1,9,0.0337126258623812,18.2107800442508
+"Low data, high noise",Periodic-DMPC,18,3,0,0.0501,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,19,3,0,0.0154,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,20,3,0,0.013,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,21,3,1,15.5796,1,3,20.805233771303,17.3623232006441
+"Low data, high noise",Periodic-DMPC,22,3,0,0.0352,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,23,3,0,0.0156,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,24,3,0,0.0131,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,25,3,1,107.2027,1,27,1.57529103268542e-12,5.04955353355793e-08
+"Low data, high noise",Periodic-DMPC,26,3,0,0.0423,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,27,3,0,0.015,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,28,3,0,0.0131,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,29,3,1,26.0289,1,6,0.087296797802743,16.6383499331291
+"Low data, high noise",Periodic-DMPC,30,3,0,0.0358,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,31,3,0,0.0148,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,32,3,0,0.013,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,33,3,1,43.9987,1,11,0.0806762945879148,14.7313123710456
+"Low data, high noise",Periodic-DMPC,34,3,0,0.0367,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,35,3,0,0.0159,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,36,3,0,0.0132,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,37,3,1,65.568,1,16,0.0673338532268734,16.1030032266445
+"Low data, high noise",Periodic-DMPC,38,3,0,0.0365,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,39,3,0,0.0155,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,40,3,0,0.0129,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,41,3,1,30.1045,1,7,0.0859070333686824,16.2186021552509
+"Low data, high noise",Periodic-DMPC,42,3,0,0.0446,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,43,3,0,0.0145,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,44,3,0,0.0126,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,45,3,1,26.4038,1,6,12.4292861696958,17.3604348675791
+"Low data, high noise",Periodic-DMPC,46,3,0,0.0338,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,47,3,0,0.0151,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,48,3,0,0.0127,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,49,3,1,39.547,1,10,18.7567761722032,14.8717397418304
+"Low data, high noise",Periodic-DMPC,50,3,0,0.034,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,51,3,0,0.0144,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,52,3,0,0.0125,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,53,3,1,108.3748,1,30,0.0214803279780355,46.3801659628502
+"Low data, high noise",Periodic-DMPC,54,3,0,0.0344,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,55,3,0,0.0145,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,56,3,0,0.0188,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,57,3,1,37.3034,1,9,0.0951390890536656,17.7086336563367
+"Low data, high noise",Periodic-DMPC,58,3,0,0.035,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,59,3,0,0.014,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,60,3,0,0.0129,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,61,3,1,113.9534,1,30,0.660954275329708,17.6898626858423
+"Low data, high noise",Periodic-DMPC,62,3,0,0.0339,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,63,3,0,0.0146,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,64,3,0,0.0129,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,65,3,1,65.2375,1,16,11.6368849675473,12.6719184113812
+"Low data, high noise",Periodic-DMPC,66,3,0,0.0355,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,67,3,0,0.0146,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,68,3,0,0.0133,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,69,3,1,80.8944,1,20,0.0410703082375617,4.86139562766772
+"Low data, high noise",Periodic-DMPC,70,3,0,0.0351,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,71,3,0,0.0148,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,72,3,0,0.0124,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,73,3,1,15.7252,1,3,10.3996801526947,14.7262064884551
+"Low data, high noise",Periodic-DMPC,74,3,0,0.0339,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,75,3,0,0.0146,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,76,3,0,0.0129,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,77,3,1,59.956,1,14,3.6513833694514e-11,4.94128560534325e-07
+"Low data, high noise",Periodic-DMPC,78,3,0,0.0368,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,79,3,0,0.0143,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,80,3,0,0.0147,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,81,3,1,45.5302,1,11,0.123774020912524,20.143418465214
+"Low data, high noise",Periodic-DMPC,82,3,0,0.039,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,83,3,0,0.0151,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,84,3,0,0.0134,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,85,3,1,38.0278,1,9,17.406464017539,18.8047231205296
+"Low data, high noise",Periodic-DMPC,86,3,0,0.0374,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,87,3,0,0.0147,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,88,3,0,0.0127,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,89,3,1,77.271,1,18,13.8471856571599,18.4425204974764
+"Low data, high noise",Periodic-DMPC,90,3,0,0.0366,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,91,3,0,0.0146,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,92,3,0,0.0128,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,93,3,1,35.5813,1,8,16.9178190487786,12.8245815485884
+"Low data, high noise",Periodic-DMPC,94,3,0,0.034,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,95,3,0,0.0148,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,96,3,0,0.0126,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,97,3,1,28.2865,1,8,2.98504141955894e-10,7.92634516765879e-08
+"Low data, high noise",Periodic-DMPC,98,3,0,0.0334,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,99,3,0,0.0143,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,100,3,0,0.5164,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,101,11,1,38.2868,1,8,0.103576814726192,18.7533687253841
+"Low data, high noise",Periodic-DMPC,102,11,0,0.039,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,103,11,0,0.0142,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,104,11,0,0.0131,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,105,11,1,43.7039,1,11,0.0280711918928835,22.7130675282778
+"Low data, high noise",Periodic-DMPC,106,11,0,0.0362,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,107,11,0,0.015,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,108,11,0,0.0127,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,109,11,1,25.9878,1,6,12.9740107090269,10.3817615553514
+"Low data, high noise",Periodic-DMPC,110,11,0,0.0356,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,111,11,0,0.0149,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,112,11,0,0.0132,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,113,11,1,53.9638,1,13,12.7848094585812,17.5871952100751
+"Low data, high noise",Periodic-DMPC,114,11,0,0.0354,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,115,11,0,0.0147,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,116,11,0,0.0135,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,117,11,1,59.3555,1,15,18.3115822411456,15.5349134754418
+"Low data, high noise",Periodic-DMPC,118,11,0,0.0344,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,119,11,0,0.0146,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,120,11,0,0.0125,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,121,11,1,98.3378,1,23,25.341329167846,18.3632443202172
+"Low data, high noise",Periodic-DMPC,122,11,0,0.0343,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,123,11,0,0.015,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,124,11,0,0.0132,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,125,11,1,55.5036,1,14,18.2812519986072,23.2944440904358
+"Low data, high noise",Periodic-DMPC,126,11,0,0.0343,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,127,11,0,0.0145,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,128,11,0,0.0123,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,129,11,1,62.5687,1,15,15.827708184261,21.6345376352879
+"Low data, high noise",Periodic-DMPC,130,11,0,0.0352,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,131,11,0,0.0152,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,132,11,0,0.0131,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,133,11,1,57.3795,1,15,16.1239359446818,16.3690692791852
+"Low data, high noise",Periodic-DMPC,134,11,0,0.0342,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,135,11,0,0.0149,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,136,11,0,0.0139,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,137,11,1,26.4615,1,6,0.0903776180132563,17.1164857054289
+"Low data, high noise",Periodic-DMPC,138,11,0,0.0339,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,139,11,0,0.0144,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,140,11,0,0.0128,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,141,11,1,84.7872,1,21,12.5041241669602,15.8456626514589
+"Low data, high noise",Periodic-DMPC,142,11,0,0.0339,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,143,11,0,0.0149,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,144,11,0,0.0129,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,145,11,1,56.0731,1,12,1.85827015549305,20.1982898050696
+"Low data, high noise",Periodic-DMPC,146,11,0,0.0358,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,147,11,0,0.0147,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,148,11,0,0.0131,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,149,11,1,69.6756,1,16,15.1306697304481,17.1462787191483
+"Low data, high noise",Periodic-DMPC,150,11,0,0.035,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,151,11,0,0.0146,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,152,11,0,0.0134,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,153,11,1,48.0901,1,12,0.108281929746872,18.7776150491732
+"Low data, high noise",Periodic-DMPC,154,11,0,0.0368,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,155,11,0,0.0147,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,156,11,0,0.0133,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,157,11,1,25.2564,1,6,0,8.45865404462873e-08
+"Low data, high noise",Periodic-DMPC,158,11,0,0.0363,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,159,11,0,0.0154,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,160,11,0,0.0127,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,161,11,1,61.7603,1,16,0.00962902662650467,15.2157905279136
+"Low data, high noise",Periodic-DMPC,162,11,0,0.0351,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,163,11,0,0.0146,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,164,11,0,0.0128,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,165,11,1,39.831,1,9,0.00240884210285884,19.7329754245046
+"Low data, high noise",Periodic-DMPC,166,11,0,0.0345,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,167,11,0,0.0142,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,168,11,0,0.0125,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,169,11,1,106.3388,1,28,20.3598320490946,12.1772079192594
+"Low data, high noise",Periodic-DMPC,170,11,0,0.0342,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,171,11,0,0.0149,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,172,11,0,0.0131,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,173,11,1,107.9522,1,30,32.1186930773823,29.5056242260543
+"Low data, high noise",Periodic-DMPC,174,11,0,0.035,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,175,11,0,0.0146,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,176,11,0,0.013,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,177,11,1,13.9554,1,3,0,2.93511089640838e-06
+"Low data, high noise",Periodic-DMPC,178,11,0,0.0336,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,179,11,0,0.0149,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,180,11,0,0.0129,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,181,11,1,24.5986,1,6,9.147300256613,18.8163189222501
+"Low data, high noise",Periodic-DMPC,182,11,0,0.0343,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,183,11,0,0.0143,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,184,11,0,0.0137,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,185,11,1,110.988,1,30,5.08422994585042e-13,1.2726423371884e-07
+"Low data, high noise",Periodic-DMPC,186,11,0,0.0353,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,187,11,0,0.0146,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,188,11,0,0.0131,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,189,11,1,74.8633,1,17,13.501355805654,10.108928920522
+"Low data, high noise",Periodic-DMPC,190,11,0,0.0358,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,191,11,0,0.0147,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,192,11,0,0.0129,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,193,11,1,57.4982,1,15,18.7650868722538,17.6525167760313
+"Low data, high noise",Periodic-DMPC,194,11,0,0.056,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,195,11,0,0.0391,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,196,11,0,0.1794,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,197,11,1,12.4308,1,3,7.67626092731511e-05,9.89236468740273e-07
+"Low data, high noise",Periodic-DMPC,198,11,0,0.0315,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,199,11,0,0.0139,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,200,11,0,0.0231,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,201,17,1,16.7562,1,3,0,2.80118568092504e-06
+"Low data, high noise",Periodic-DMPC,202,17,0,0.0408,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,203,17,0,0.0152,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,204,17,0,0.0122,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,205,17,1,56.0014,1,13,0.104836878543827,18.6421095970088
+"Low data, high noise",Periodic-DMPC,206,17,0,0.0342,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,207,17,0,0.0152,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,208,17,0,0.013,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,209,17,1,14.0981,1,2,7.35050638078096,18.4437804321127
+"Low data, high noise",Periodic-DMPC,210,17,0,0.0357,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,211,17,0,0.0137,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,212,17,0,0.013,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,213,17,1,77.9937,1,15,20.1960788084933,19.4777658190839
+"Low data, high noise",Periodic-DMPC,214,17,0,0.0338,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,215,17,0,0.0143,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,216,17,0,0.0134,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,217,17,1,40.6533,1,8,24.7926843245156,13.0720801232518
+"Low data, high noise",Periodic-DMPC,218,17,0,0.0495,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,219,17,0,0.024,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,220,17,0,0.0222,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,221,17,1,70.7332,1,15,22.1561398944867,16.0881429454621
+"Low data, high noise",Periodic-DMPC,222,17,0,0.0358,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,223,17,0,0.0152,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,224,17,0,0.0131,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,225,17,1,87.8779,1,20,18.2025781906683,26.2547063205598
+"Low data, high noise",Periodic-DMPC,226,17,0,0.0346,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,227,17,0,0.0142,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,228,17,0,0.0125,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,229,17,1,37.9913,1,9,0.102839407851206,18.9963167032881
+"Low data, high noise",Periodic-DMPC,230,17,0,0.0346,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,231,17,0,0.0145,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,232,17,0,0.0134,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,233,17,1,119.9441,1,30,0.963688350888333,20.4896467697849
+"Low data, high noise",Periodic-DMPC,234,17,0,0.0335,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,235,17,0,0.0145,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,236,17,0,0.0129,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,237,17,1,128.0986,1,30,1.24407839455049e-07,124.411108876169
+"Low data, high noise",Periodic-DMPC,238,17,0,0.0338,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,239,17,0,0.0157,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,240,17,0,0.0134,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,241,17,1,15.9169,1,3,0,3.05523653488686e-06
+"Low data, high noise",Periodic-DMPC,242,17,0,0.0352,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,243,17,0,0.0148,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,244,17,0,0.0131,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,245,17,1,46.6755,1,12,17.4118759382254,19.8064032204364
+"Low data, high noise",Periodic-DMPC,246,17,0,0.0335,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,247,17,0,0.0152,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,248,17,0,0.0146,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,249,17,1,30.5264,1,8,3.53700078133689,17.5349332861481
+"Low data, high noise",Periodic-DMPC,250,17,0,0.0346,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,251,17,0,0.015,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,252,17,0,0.0131,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,253,17,1,24.8608,1,6,4.79278094661691,19.1825790012313
+"Low data, high noise",Periodic-DMPC,254,17,0,0.0356,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,255,17,0,0.0147,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,256,17,0,0.0126,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,257,17,1,57.9824,1,15,19.8557514504271,6.0641534390864
+"Low data, high noise",Periodic-DMPC,258,17,0,0.0472,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,259,17,0,0.0151,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,260,17,0,0.0127,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,261,17,1,28.8102,1,7,10.8801112620359,16.5153282105933
+"Low data, high noise",Periodic-DMPC,262,17,0,0.0379,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,263,17,0,0.0149,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,264,17,0,0.0136,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,265,17,1,25.0959,1,6,9.83480693634674,13.8289932781213
+"Low data, high noise",Periodic-DMPC,266,17,0,0.0355,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,267,17,0,0.0158,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,268,17,0,0.0134,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,269,17,1,88.1896,1,23,0.00197112487115485,11.4384994232739
+"Low data, high noise",Periodic-DMPC,270,17,0,0.035,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,271,17,0,0.0153,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,272,17,0,0.0129,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,273,17,1,31.8202,1,8,0.114358717410544,18.1966027722932
+"Low data, high noise",Periodic-DMPC,274,17,0,0.0337,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,275,17,0,0.0149,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,276,17,0,0.0128,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,277,17,1,23.4901,1,6,0.0941097918789852,17.7222560022368
+"Low data, high noise",Periodic-DMPC,278,17,0,0.0361,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,279,17,0,0.0153,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,280,17,0,0.0129,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,281,17,1,60.8717,1,17,0.209968984846996,16.6959086373651
+"Low data, high noise",Periodic-DMPC,282,17,0,0.0352,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,283,17,0,0.0153,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,284,17,0,0.0126,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,285,17,1,112.0378,1,30,1.52516743135499e-09,0.801914208625089
+"Low data, high noise",Periodic-DMPC,286,17,0,0.0348,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,287,17,0,0.0146,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,288,17,0,0.0128,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,289,17,1,116.0688,1,27,5.78321458165648,24.5798233640296
+"Low data, high noise",Periodic-DMPC,290,17,0,0.0359,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,291,17,0,0.0145,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,292,17,0,0.0133,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,293,17,1,87.9695,1,24,13.5477386915092,20.1989713865762
+"Low data, high noise",Periodic-DMPC,294,17,0,0.0359,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,295,17,0,0.0149,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,296,17,0,0.0129,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,297,17,1,9.3049,1,2,0.157802364438329,9.79570661627052e-13
+"Low data, high noise",Periodic-DMPC,298,17,0,0.0339,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,299,17,0,0.0147,1,NaN,NaN,NaN
+"Low data, high noise",Periodic-DMPC,300,17,0,0.0549,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,1,3,1,68.3193,1,17,0.0409330313964972,6.10633974410542
+"Low data, high noise",ET-DMPC,2,3,1,23.225,1,4,0,2.29641974126343e-07
+"Low data, high noise",ET-DMPC,3,3,0,0.0469,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,4,3,1,56.1893,1,14,0.125528864490707,24.1423012663688
+"Low data, high noise",ET-DMPC,5,3,1,31.8135,1,8,14.1824079060798,21.3760848832052
+"Low data, high noise",ET-DMPC,6,3,0,0.0484,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,7,3,1,44.403,1,11,0.113222402502503,18.8947580583185
+"Low data, high noise",ET-DMPC,8,3,1,37.1169,1,9,0.0318102606376862,20.0520196283774
+"Low data, high noise",ET-DMPC,9,3,1,47.5428,1,12,4.56930186256809e-09,3.95454723956925e-07
+"Low data, high noise",ET-DMPC,10,3,0,0.0503,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,11,3,0,0.0721,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,12,3,1,36.5321,1,8,0.0985132780383789,18.1529420425676
+"Low data, high noise",ET-DMPC,13,3,1,13.6779,1,3,9.09494701772928e-13,7.04434064902917e-07
+"Low data, high noise",ET-DMPC,14,3,0,0.034,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,15,3,1,23.2615,1,5,0,3.71550452847457e-08
+"Low data, high noise",ET-DMPC,16,3,1,46.3166,1,12,0.10963141314484,18.9264628076702
+"Low data, high noise",ET-DMPC,17,3,0,0.033,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,18,3,1,13.6857,1,3,0.106848204623471,19.1580341938121
+"Low data, high noise",ET-DMPC,19,3,1,50.8383,1,14,26.1765056012745,21.5623150644468
+"Low data, high noise",ET-DMPC,20,3,1,60.0805,1,16,19.7000612213978,13.6355288862863
+"Low data, high noise",ET-DMPC,21,3,1,70.1198,1,19,19.1815449106716,19.7873363157138
+"Low data, high noise",ET-DMPC,22,3,1,88.1112,1,23,17.823303223296,6.02081002085402
+"Low data, high noise",ET-DMPC,23,3,1,69.1998,1,17,10.9240314817264,1.04258441464779
+"Low data, high noise",ET-DMPC,24,3,1,60.9844,1,16,0.0229608059914008,19.2750730978562
+"Low data, high noise",ET-DMPC,25,3,1,82.0717,1,20,7.64377000450882e-06,0.0156634205636261
+"Low data, high noise",ET-DMPC,26,3,1,20.706,1,5,15.7530302187607,16.6281584435521
+"Low data, high noise",ET-DMPC,27,3,1,23.0387,1,6,20.4162461297781,21.8765435576852
+"Low data, high noise",ET-DMPC,28,3,0,0.0359,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,29,3,1,46.4432,1,12,19.9147468945151,19.2265170249379
+"Low data, high noise",ET-DMPC,30,3,0,0.0342,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,31,3,1,116.3972,1,30,0.108947837951384,18.8318384198014
+"Low data, high noise",ET-DMPC,32,3,1,64.7291,1,16,0.0969703338689632,17.8090166839853
+"Low data, high noise",ET-DMPC,33,3,1,23.0132,1,6,0.0975039012110361,18.656013124106
+"Low data, high noise",ET-DMPC,34,3,1,34.5124,1,9,4.10575644533879,1.93329662660581
+"Low data, high noise",ET-DMPC,35,3,0,0.0342,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,36,3,0,0.0151,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,37,3,0,0.0133,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,38,3,1,47.0595,1,13,20.1159428740553,21.1173039367628
+"Low data, high noise",ET-DMPC,39,3,1,101.4125,1,29,0.0716245714316474,11.2943552093179
+"Low data, high noise",ET-DMPC,40,3,1,23.4828,1,6,23.4463904627344,7.16959891530229
+"Low data, high noise",ET-DMPC,41,3,1,45.0805,1,12,19.6142072166924,9.62231698023841
+"Low data, high noise",ET-DMPC,42,3,1,38.1737,1,10,12.6801519316903,21.4582673394343
+"Low data, high noise",ET-DMPC,43,3,1,41.1389,1,11,16.0365991307319,11.9831822063045
+"Low data, high noise",ET-DMPC,44,3,1,43.9395,1,12,17.2953094878921,13.9625736435883
+"Low data, high noise",ET-DMPC,45,3,1,38.5543,1,11,21.3975757672394,13.6163435058082
+"Low data, high noise",ET-DMPC,46,3,1,33.7255,1,9,24.7800875571058,9.44193873902286
+"Low data, high noise",ET-DMPC,47,3,1,40.474,1,11,1.59889200905818e-09,4.25899898142755e-07
+"Low data, high noise",ET-DMPC,48,3,1,74.4482,1,19,0.105668967186651,18.390622546562
+"Low data, high noise",ET-DMPC,49,3,1,47.7406,1,13,0.810472928911104,21.848463721781
+"Low data, high noise",ET-DMPC,50,3,1,10.0834,1,2,6.55845285709426,18.5600542975121
+"Low data, high noise",ET-DMPC,51,3,0,0.0344,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,52,3,0,0.028,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,53,3,0,0.0137,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,54,3,0,0.0127,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,55,3,0,0.0127,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,56,3,1,112.8789,1,23,1.76122891671522e-12,5.79273519566405e-08
+"Low data, high noise",ET-DMPC,57,3,1,36.2122,1,5,10.6624012120054,0.00379565290306847
+"Low data, high noise",ET-DMPC,58,3,1,23.6187,1,3,3.38189407593576e-06,0.0355335260973623
+"Low data, high noise",ET-DMPC,59,3,0,0.036,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,60,3,1,69.7328,1,13,28.6829515774726,27.9457595870607
+"Low data, high noise",ET-DMPC,61,3,1,108.9936,1,30,0.103709923282958,17.9183460677667
+"Low data, high noise",ET-DMPC,62,3,1,26.2104,1,6,24.7736429358361,17.289884996592
+"Low data, high noise",ET-DMPC,63,3,1,56.6053,1,15,0.0625078656359663,16.3650577320421
+"Low data, high noise",ET-DMPC,64,3,0,0.0341,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,65,3,0,0.0155,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,66,3,0,0.0136,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,67,3,0,0.0128,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,68,3,0,0.0128,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,69,3,0,0.0126,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,70,3,0,0.0129,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,71,3,1,107.3138,1,30,4.50376993085063,63.047176556925
+"Low data, high noise",ET-DMPC,72,3,1,63.4964,1,18,19.2524608063718,18.5070353206158
+"Low data, high noise",ET-DMPC,73,3,1,28.6779,1,7,0.101991335442669,17.1988282674325
+"Low data, high noise",ET-DMPC,74,3,1,57.2893,1,16,22.3026422118465,17.8718527272831
+"Low data, high noise",ET-DMPC,75,3,1,51.7526,1,15,23.8861918962861,16.9894320560885
+"Low data, high noise",ET-DMPC,76,3,1,76.422,1,20,10.2707416276294,21.1495893208842
+"Low data, high noise",ET-DMPC,77,3,1,52.1246,1,15,2.32830754676146e-10,4.71934724521895e-07
+"Low data, high noise",ET-DMPC,78,3,1,110.9724,1,30,6.00911872198028,17.1510655303072
+"Low data, high noise",ET-DMPC,79,3,1,113.7233,1,30,0.101091430292399,18.0174790370998
+"Low data, high noise",ET-DMPC,80,3,1,40.0831,1,11,0.687910544986221,16.3159801430905
+"Low data, high noise",ET-DMPC,81,3,1,30.8934,1,8,0.101764913070796,16.7739792721037
+"Low data, high noise",ET-DMPC,82,3,1,31.5257,1,9,0.0848206941374359,15.2261618181245
+"Low data, high noise",ET-DMPC,83,3,1,17.366,1,4,0.0859523293822942,17.7065777873491
+"Low data, high noise",ET-DMPC,84,3,1,58.5646,1,16,19.3658510448041,18.2312573086029
+"Low data, high noise",ET-DMPC,85,3,0,0.036,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,86,3,0,0.0151,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,87,3,1,57.8451,1,16,7.77815855988332,17.8671051547232
+"Low data, high noise",ET-DMPC,88,3,1,17.2436,1,4,2.20970866433283e-08,23.1909019493342
+"Low data, high noise",ET-DMPC,89,3,0,0.0345,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,90,3,0,0.0147,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,91,3,0,0.0128,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,92,3,0,0.0129,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,93,3,0,0.0129,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,94,3,0,0.0133,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,95,3,1,15.1447,1,4,0.0421357721422102,14.6340063879098
+"Low data, high noise",ET-DMPC,96,3,1,16.398,1,4,11.7291818628058,0.162099555523618
+"Low data, high noise",ET-DMPC,97,3,0,0.034,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,98,3,1,13.3621,1,4,2.92103329107596e-05,0.0378135205959514
+"Low data, high noise",ET-DMPC,99,3,0,0.0327,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,100,3,0,0.0226,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,101,11,1,30.1492,1,8,0.103576814726222,18.753368725385
+"Low data, high noise",ET-DMPC,102,11,1,24.2651,1,6,0.100566014633471,18.9541102657311
+"Low data, high noise",ET-DMPC,103,11,1,19.7707,1,5,1.15362416446482,19.2876851421437
+"Low data, high noise",ET-DMPC,104,11,0,0.0339,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,105,11,1,39.6225,1,11,0.0955439455163621,19.7365746065037
+"Low data, high noise",ET-DMPC,106,11,1,68.2505,1,20,0.0641720881997673,8.29172450709693
+"Low data, high noise",ET-DMPC,107,11,1,76.4154,1,21,20.9755654849333,6.03887892608414
+"Low data, high noise",ET-DMPC,108,11,1,74.5688,1,21,15.3960207838931,11.4242772700667
+"Low data, high noise",ET-DMPC,109,11,1,38.1598,1,11,8.10370341108915,16.0564618603002
+"Low data, high noise",ET-DMPC,110,11,1,47.1862,1,14,19.1277530165159,9.32691785041658
+"Low data, high noise",ET-DMPC,111,11,1,39.6144,1,11,15.7010749432405,14.6518089214343
+"Low data, high noise",ET-DMPC,112,11,1,97.1,1,27,10.4042275324671,13.5474453910441
+"Low data, high noise",ET-DMPC,113,11,1,77.5133,1,21,12.7566338491137,12.5873199877721
+"Low data, high noise",ET-DMPC,114,11,1,39.2641,1,11,11.9738780988357,12.1482631312564
+"Low data, high noise",ET-DMPC,115,11,1,52.5381,1,15,7.36480008354741,15.7357465969638
+"Low data, high noise",ET-DMPC,116,11,1,45.2393,1,13,18.6979270022637,6.74258995209029
+"Low data, high noise",ET-DMPC,117,11,1,77.9991,1,22,18.8631338827945,11.151214046449
+"Low data, high noise",ET-DMPC,118,11,1,28.0409,1,7,16.7433348627984,20.2127885676798
+"Low data, high noise",ET-DMPC,119,11,1,106.7549,1,29,21.9982190674101,20.8037360630097
+"Low data, high noise",ET-DMPC,120,11,1,14.8752,1,3,0,2.70487337375919e-06
+"Low data, high noise",ET-DMPC,121,11,1,7.0403,1,1,6.53189577812702e-07,6.55335336346141e-07
+"Low data, high noise",ET-DMPC,122,11,1,47.1313,1,12,0,2.9493821934619e-07
+"Low data, high noise",ET-DMPC,123,11,1,51.0605,1,14,14.785084091979,21.3734980339436
+"Low data, high noise",ET-DMPC,124,11,1,58.0214,1,14,27.6865319768992,25.1086844277671
+"Low data, high noise",ET-DMPC,125,11,1,49.1749,1,13,27.2749287361674,25.8393978979559
+"Low data, high noise",ET-DMPC,126,11,1,48.4014,1,14,13.0675048634896,16.5465937018912
+"Low data, high noise",ET-DMPC,127,11,1,79.2062,1,23,23.4842239181209,11.4058390024168
+"Low data, high noise",ET-DMPC,128,11,1,62.776,1,19,18.1912076650996,20.1783169445075
+"Low data, high noise",ET-DMPC,129,11,1,56.7572,1,17,17.6787706102773,22.0203052438055
+"Low data, high noise",ET-DMPC,130,11,1,45.5818,1,13,0.011436417000379,8.89520123810431
+"Low data, high noise",ET-DMPC,131,11,0,0.0337,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,132,11,0,0.0152,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,133,11,1,17.5893,1,4,15.0644515531318,17.9935986229137
+"Low data, high noise",ET-DMPC,134,11,0,0.0346,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,135,11,0,0.0148,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,136,11,1,46.729,1,12,12.8471537992261,15.3828379598272
+"Low data, high noise",ET-DMPC,137,11,1,105.8684,1,28,6.74907328631219,8.5963173430211
+"Low data, high noise",ET-DMPC,138,11,1,81.2039,1,22,12.8700733363968,12.3371498143486
+"Low data, high noise",ET-DMPC,139,11,1,19.5696,1,5,4.88274479886857,2.58903302786875
+"Low data, high noise",ET-DMPC,140,11,1,48.0528,1,13,20.6424174033131,6.59812457378699
+"Low data, high noise",ET-DMPC,141,11,1,105.3451,1,27,19.6678907650655,14.8013044858005
+"Low data, high noise",ET-DMPC,142,11,1,25.7975,1,5,21.7133701562746,22.3478212860293
+"Low data, high noise",ET-DMPC,143,11,1,48.1498,1,9,21.6197773994205,6.75574955951308
+"Low data, high noise",ET-DMPC,144,11,1,28.8596,1,7,28.6802133530878,19.8748942004267
+"Low data, high noise",ET-DMPC,145,11,1,10.4988,1,2,28.1252864441502,5.52555936282916e-11
+"Low data, high noise",ET-DMPC,146,11,1,29.9971,1,5,6.94853952154517e-10,3.45487140044581e-06
+"Low data, high noise",ET-DMPC,147,11,1,27.6561,1,6,24.7603138453934,15.362846374212
+"Low data, high noise",ET-DMPC,148,11,1,39.5691,1,11,1.33667876586506e-11,1.88606259487613e-07
+"Low data, high noise",ET-DMPC,149,11,0,0.0358,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,150,11,0,0.0311,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,151,11,1,55.537,1,15,0.0945343071973965,17.020408311517
+"Low data, high noise",ET-DMPC,152,11,0,0.0344,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,153,11,0,0.0146,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,154,11,0,0.0159,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,155,11,0,0.0139,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,156,11,0,0.0124,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,157,11,0,0.0127,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,158,11,0,0.0126,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,159,11,1,34.0606,1,9,1.26473778679699,17.5323074398016
+"Low data, high noise",ET-DMPC,160,11,1,67.8176,1,18,14.6498105406621,8.78418610466949
+"Low data, high noise",ET-DMPC,161,11,1,109.6854,1,30,0.0264509988200554,37.0079121733977
+"Low data, high noise",ET-DMPC,162,11,1,37.8103,1,9,0.103906284434732,19.1598699886198
+"Low data, high noise",ET-DMPC,163,11,1,31.6057,1,8,18.6688293168055,10.3383949431073
+"Low data, high noise",ET-DMPC,164,11,1,29.2822,1,8,21.7099616025214,14.3306148009389
+"Low data, high noise",ET-DMPC,165,11,1,83.0535,1,22,1.29404663804245,12.4341263647076
+"Low data, high noise",ET-DMPC,166,11,1,45.7625,1,13,0.00528643125107935,0.636919044290509
+"Low data, high noise",ET-DMPC,167,11,1,21.7681,1,5,0,3.19765249965286e-07
+"Low data, high noise",ET-DMPC,168,11,1,6.8987,1,1,1.50713781527658e-06,1.50690039933307e-06
+"Low data, high noise",ET-DMPC,169,11,1,7.2523,1,1,6.48368068579812e-07,6.46395297576879e-07
+"Low data, high noise",ET-DMPC,170,11,1,41.7134,1,11,0.104097689662406,18.3964198196344
+"Low data, high noise",ET-DMPC,171,11,1,28.7421,1,7,25.0871392681682,12.0741790903839
+"Low data, high noise",ET-DMPC,172,11,1,46.1752,1,10,20.9293399028389,29.4329640363432
+"Low data, high noise",ET-DMPC,173,11,1,79.4136,1,21,26.2290873787274,14.4346821339248
+"Low data, high noise",ET-DMPC,174,11,1,50.8562,1,13,14.6242386305705,20.5537752704096
+"Low data, high noise",ET-DMPC,175,11,1,55.9479,1,15,17.9014336162692,26.5733579624027
+"Low data, high noise",ET-DMPC,176,11,1,70.0057,1,19,17.3570915482742,12.9733888355271
+"Low data, high noise",ET-DMPC,177,11,1,60.4151,1,16,26.152215792582,9.81191271821092
+"Low data, high noise",ET-DMPC,178,11,1,84.4702,1,21,13.7451346097932,21.8333692237025
+"Low data, high noise",ET-DMPC,179,11,0,0.0377,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,180,11,0,0.0151,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,181,11,0,0.0131,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,182,11,0,0.0131,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,183,11,0,0.0128,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,184,11,1,47.5928,1,13,0.104139709496151,19.0087534956447
+"Low data, high noise",ET-DMPC,185,11,1,101.7716,1,30,6.43109871076874e-13,1.92097951201877e-08
+"Low data, high noise",ET-DMPC,186,11,1,41.0615,1,11,23.9338785071009,14.2133858767523
+"Low data, high noise",ET-DMPC,187,11,1,103.3822,1,30,0.0154650914028278,48.3960915010005
+"Low data, high noise",ET-DMPC,188,11,1,51.5002,1,14,3.15877605077044e-12,1.78202986238574e-07
+"Low data, high noise",ET-DMPC,189,11,1,31.3859,1,7,8.30314740428828e-06,0.0167480967724063
+"Low data, high noise",ET-DMPC,190,11,1,18.3596,1,4,0.0852532843891822,7.87875850599069e-09
+"Low data, high noise",ET-DMPC,191,11,1,59.1204,1,16,3.63797880709171e-12,1.36766210803584e-10
+"Low data, high noise",ET-DMPC,192,11,1,43.885,1,11,0.0451679751325721,8.59923339425499
+"Low data, high noise",ET-DMPC,193,11,0,0.0346,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,194,11,0,0.0152,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,195,11,0,0.013,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,196,11,1,17.4348,1,5,0.00498125476152665,12.1543586027773
+"Low data, high noise",ET-DMPC,197,11,0,0.0336,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,198,11,0,0.015,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,199,11,0,0.0132,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,200,11,0,0.0221,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,201,17,1,14.3082,1,3,0,2.80118568092504e-06
+"Low data, high noise",ET-DMPC,202,17,1,96.2148,1,25,23.6524263913121,23.5492444481637
+"Low data, high noise",ET-DMPC,203,17,1,29.5056,1,8,23.8565090530419,8.20921472934615
+"Low data, high noise",ET-DMPC,204,17,1,47.1191,1,14,2.34911442648893,0.276405960482819
+"Low data, high noise",ET-DMPC,205,17,1,40.95,1,12,0.10530213153873,19.0043712105161
+"Low data, high noise",ET-DMPC,206,17,1,17.2651,1,4,16.0783543457533,18.9662270610866
+"Low data, high noise",ET-DMPC,207,17,1,33.6012,1,9,1.19224604535825,17.8697951255752
+"Low data, high noise",ET-DMPC,208,17,1,50.7298,1,14,16.2060614932677,15.1960935210765
+"Low data, high noise",ET-DMPC,209,17,1,29.801,1,7,4.58581080090351e-08,1.81299121344162
+"Low data, high noise",ET-DMPC,210,17,1,95.1741,1,26,13.2831484778716,11.7768426410387
+"Low data, high noise",ET-DMPC,211,17,1,27.6107,1,7,1.51591011672477e-05,0.0324836593900083
+"Low data, high noise",ET-DMPC,212,17,1,38.8472,1,11,0.0543933719053516,22.5721107483287
+"Low data, high noise",ET-DMPC,213,17,1,73.3244,1,19,2.91816813842306e-05,0.02918159364407
+"Low data, high noise",ET-DMPC,214,17,0,0.0653,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,215,17,1,32.8099,1,9,25.8537496920682,19.3337180019849
+"Low data, high noise",ET-DMPC,216,17,1,56.2264,1,15,25.6494926444399,25.1842762093282
+"Low data, high noise",ET-DMPC,217,17,1,33.1865,1,9,16.8687337937786,23.6077330829328
+"Low data, high noise",ET-DMPC,218,17,1,39.4831,1,10,14.5922806577376,21.6986904093708
+"Low data, high noise",ET-DMPC,219,17,1,40.4852,1,10,5.18347223988544e-06,0.0252544361084116
+"Low data, high noise",ET-DMPC,220,17,1,46.5123,1,12,0.233482431454413,18.8046377759558
+"Low data, high noise",ET-DMPC,221,17,1,42.1921,1,11,21.9864775743992,27.7784075406306
+"Low data, high noise",ET-DMPC,222,17,1,33.497,1,9,0.113679640871386,18.3496367430287
+"Low data, high noise",ET-DMPC,223,17,1,104.9552,1,30,0.0343617324405309,224.331571538926
+"Low data, high noise",ET-DMPC,224,17,1,17.7107,1,4,1.18822281365447e-05,0.0590585460270758
+"Low data, high noise",ET-DMPC,225,17,1,10.0142,1,2,0,1.055904056662e-06
+"Low data, high noise",ET-DMPC,226,17,0,0.0333,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,227,17,0,0.0153,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,228,17,0,0.0131,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,229,17,1,102.4569,1,29,17.4165009092458,17.6349412024831
+"Low data, high noise",ET-DMPC,230,17,1,48.6754,1,14,15.2895074292797,6.36121337131512
+"Low data, high noise",ET-DMPC,231,17,1,37.8635,1,10,5.86572796096405e-07,0.00278658728852608
+"Low data, high noise",ET-DMPC,232,17,1,38.3349,1,10,6.53327236726725,1.08381177030614
+"Low data, high noise",ET-DMPC,233,17,0,0.0342,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,234,17,0,0.0151,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,235,17,0,0.0129,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,236,17,0,0.0125,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,237,17,0,0.0125,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,238,17,0,0.0128,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,239,17,1,46.0226,1,12,13.0779393118846,3.97878115587861
+"Low data, high noise",ET-DMPC,240,17,1,33.3121,1,9,25.5368008749417,21.6488650088526
+"Low data, high noise",ET-DMPC,241,17,1,17.0531,1,4,27.5574441880539,16.1259328287705
+"Low data, high noise",ET-DMPC,242,17,1,17.5935,1,4,0,6.29107386402389e-07
+"Low data, high noise",ET-DMPC,243,17,1,55.3621,1,9,21.5055956710995,0.256873750676291
+"Low data, high noise",ET-DMPC,244,17,1,20.6805,1,3,20.6397599953885,11.5829006197509
+"Low data, high noise",ET-DMPC,245,17,1,10.9368,1,2,15.9442918509881,8.8693912550062e-09
+"Low data, high noise",ET-DMPC,246,17,1,55.1325,1,11,4.26007330446097e-09,3.75602978218922e-07
+"Low data, high noise",ET-DMPC,247,17,0,0.0344,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,248,17,0,0.0149,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,249,17,1,70.4946,1,16,0.0214328431799237,20.0657901180939
+"Low data, high noise",ET-DMPC,250,17,1,51.3223,1,13,1.73535426284545e-12,4.73445105479306e-07
+"Low data, high noise",ET-DMPC,251,17,1,24.902,1,6,0.126684449311215,19.9980513478869
+"Low data, high noise",ET-DMPC,252,17,1,13.4362,1,3,0.00351360219023485,0.399561377537667
+"Low data, high noise",ET-DMPC,253,17,0,0.0337,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,254,17,1,48.3023,1,14,18.6749824014555,18.5789512621378
+"Low data, high noise",ET-DMPC,255,17,1,33.6224,1,9,15.6812770870406,19.9191488497246
+"Low data, high noise",ET-DMPC,256,17,1,28.3921,1,7,18.3907552001996,7.68088688484104
+"Low data, high noise",ET-DMPC,257,17,1,54.7816,1,14,16.2376009766345,18.8842802742879
+"Low data, high noise",ET-DMPC,258,17,1,108.063,1,30,0.279220349268633,40.3200927998403
+"Low data, high noise",ET-DMPC,259,17,1,87.3421,1,23,0.0154714901720872,8.65101671490931
+"Low data, high noise",ET-DMPC,260,17,1,65.5082,1,17,9.6796200468868,16.3402696626816
+"Low data, high noise",ET-DMPC,261,17,1,45.2423,1,12,19.0299070327265,18.4543687431472
+"Low data, high noise",ET-DMPC,262,17,1,45.8319,1,13,13.2431391464056,20.0547487378835
+"Low data, high noise",ET-DMPC,263,17,1,48.6575,1,13,23.6911018008907,7.73703935816814
+"Low data, high noise",ET-DMPC,264,17,1,36.6527,1,10,22.5475252635222,20.505892564242
+"Low data, high noise",ET-DMPC,265,17,1,32.6007,1,9,18.9036682696939,15.2895420743363
+"Low data, high noise",ET-DMPC,266,17,1,48.4129,1,13,11.3510326726127,19.3291070663766
+"Low data, high noise",ET-DMPC,267,17,1,27.2975,1,7,27.0881879388456,21.8404649588788
+"Low data, high noise",ET-DMPC,268,17,1,44.4213,1,12,2.94858231408417e-09,2.85905059709681e-07
+"Low data, high noise",ET-DMPC,269,17,0,0.0363,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,270,17,0,0.0153,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,271,17,1,13.2397,1,3,9.09494701772928e-13,1.52357491573861e-06
+"Low data, high noise",ET-DMPC,272,17,0,0.0336,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,273,17,1,37.0353,1,10,0.0856904779022436,15.6556862144845
+"Low data, high noise",ET-DMPC,274,17,1,29.6114,1,7,0.0901242968550156,16.8022790185422
+"Low data, high noise",ET-DMPC,275,17,1,28.8549,1,7,0.0900177231460906,16.5453161684725
+"Low data, high noise",ET-DMPC,276,17,1,27.1665,1,7,0.0928562258142816,16.9523318136112
+"Low data, high noise",ET-DMPC,277,17,1,16.7993,1,4,0.0932847082842103,18.8331843838081
+"Low data, high noise",ET-DMPC,278,17,0,0.0356,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,279,17,0,0.0148,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,280,17,0,0.0131,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,281,17,1,50.2939,1,13,0.0904191190273447,16.4426488517288
+"Low data, high noise",ET-DMPC,282,17,1,60.0599,1,16,4.61597385781631,16.5525314306142
+"Low data, high noise",ET-DMPC,283,17,1,66.5802,1,18,0.0129788627211886,8.73263766157031
+"Low data, high noise",ET-DMPC,284,17,1,66.8638,1,19,17.2757583958659,2.25343187034414
+"Low data, high noise",ET-DMPC,285,17,1,75.1622,1,21,0.000331574772644809,0.818198444581682
+"Low data, high noise",ET-DMPC,286,17,1,112.428,1,30,35.5881829428972,20.2312208586983
+"Low data, high noise",ET-DMPC,287,17,1,65.3676,1,17,13.1305751979029,21.2812868428016
+"Low data, high noise",ET-DMPC,288,17,1,96.4779,1,27,16.6001623201807,10.8239448979835
+"Low data, high noise",ET-DMPC,289,17,1,34.5526,1,9,11.4318911039511,16.3893498674077
+"Low data, high noise",ET-DMPC,290,17,1,12.707,1,3,22.6602818015533,5.19946419232778
+"Low data, high noise",ET-DMPC,291,17,0,0.0334,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,292,17,1,13.701,1,3,25.6000788472905,25.4640488401837
+"Low data, high noise",ET-DMPC,293,17,0,0.0355,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,294,17,1,13.6063,1,3,16.4034576774736,18.9396956729493
+"Low data, high noise",ET-DMPC,295,17,0,0.0379,1,NaN,NaN,NaN
+"Low data, high noise",ET-DMPC,296,17,1,8.782,1,2,3.34473446884747,2.33482139381876e-10
+"Low data, high noise",ET-DMPC,297,17,1,11.5394,1,3,6.74157028323932,7.36902748532083
+"Low data, high noise",ET-DMPC,298,17,1,11.0918,1,3,2.08588192867194e-05,0.0300633485359185
+"Low data, high noise",ET-DMPC,299,17,1,14.4114,1,4,8.69385348778452e-06,0.016591289756299
+"Low data, high noise",ET-DMPC,300,17,1,121.0544,1,3,0.00149735782997595,5.50985600393235e-14
+"Typical-day transfer",Centralized MPC,1,1,1,7.75,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,2,1,1,7.8516,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,3,1,1,6.1182,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,4,1,1,5.7161,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,5,1,1,5.5248,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,6,1,1,5.5447,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,7,1,1,6.3498,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,8,1,1,5.8897,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,9,1,1,6.3092,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,10,1,1,5.6433,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,11,1,1,5.6977,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,12,1,1,6.326,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,13,1,1,5.6761,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,14,1,1,5.9645,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,15,1,1,5.561,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,16,1,1,5.3235,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,17,1,1,5.941,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,18,1,1,5.5745,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,19,1,1,4.7423,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,20,1,1,5.4777,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,21,1,1,4.4348,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,22,1,1,3.8824,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,23,1,1,3.5682,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,24,1,1,5.5214,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,25,2,1,8.2037,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,26,2,1,5.6882,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,27,2,1,5.3542,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,28,2,1,5.6862,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,29,2,1,5.9905,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,30,2,1,5.7189,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,31,2,1,5.9252,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,32,2,1,6.2976,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,33,2,1,5.8063,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,34,2,1,5.7877,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,35,2,1,6.1488,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,36,2,1,5.2145,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,37,2,1,5.3857,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,38,2,1,5.5764,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,39,2,1,5.6286,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,40,2,1,6.0361,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,41,2,1,6.1705,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,42,2,1,5.6708,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,43,2,1,5.3099,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,44,2,1,6.1908,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,45,2,1,4.5828,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,46,2,1,4.1299,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,47,2,1,4.2209,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,48,2,1,4.4267,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,49,3,1,5.808,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,50,3,1,6.135,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,51,3,1,5.6771,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,52,3,1,5.8222,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,53,3,1,6.3253,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,54,3,1,5.8311,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,55,3,1,7.4967,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,56,3,1,6.3239,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,57,3,1,5.7838,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,58,3,1,7.1513,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,59,3,1,5.9068,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,60,3,1,6.9857,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,61,3,1,6.3084,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,62,3,1,5.8274,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,63,3,1,7.0585,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,64,3,1,5.8948,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,65,3,1,6.2436,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,66,3,1,6.8632,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,67,3,1,5.2587,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,68,3,1,4.918,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,69,3,1,4.5686,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,70,3,1,3.9867,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,71,3,1,3.7604,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,72,3,1,3.6365,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,73,4,1,5.7427,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,74,4,1,5.7489,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,75,4,1,5.3846,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,76,4,1,5.7719,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,77,4,1,6.1202,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,78,4,1,5.59,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,79,4,1,5.5069,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,80,4,1,5.2631,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,81,4,1,5.3002,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,82,4,1,6.0173,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,83,4,1,5.5032,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,84,4,1,5.2072,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,85,4,1,5.2928,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,86,4,1,5.5619,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,87,4,1,5.3974,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,88,4,1,5.4022,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,89,4,1,6.0444,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,90,4,1,4.9491,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,91,4,1,4.7572,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,92,4,1,4.7535,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,93,4,1,4.1063,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,94,4,1,4.0622,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,95,4,1,4.0251,1,NaN,NaN,NaN
+"Typical-day transfer",Centralized MPC,96,4,1,3.5178,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,1,1,1,18.1579,1,4,25.992049783937,6.92022325149298
+"Typical-day transfer",Periodic-DMPC,2,1,0,0.974,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,3,1,0,0.0344,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,4,1,0,0.0148,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,5,1,1,36.0025,1,8,0.0405484451453585,24.4685950794436
+"Typical-day transfer",Periodic-DMPC,6,1,0,0.8377,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,7,1,0,0.0247,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,8,1,0,0.0138,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,9,1,1,24.7158,1,5,0.0327693641744522,24.6918457609212
+"Typical-day transfer",Periodic-DMPC,10,1,0,0.0342,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,11,1,0,0.0155,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,12,1,0,0.0134,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,13,1,1,35.3943,1,10,0.101155117812646,18.3806139170133
+"Typical-day transfer",Periodic-DMPC,14,1,0,0.0297,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,15,1,0,0.0155,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,16,1,0,0.0136,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,17,1,1,27.9117,1,7,0.100481728816887,18.7032280068988
+"Typical-day transfer",Periodic-DMPC,18,1,0,0.0359,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,19,1,0,0.0144,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,20,1,0,0.0131,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,21,1,1,9.2917,1,2,0.221280013519991,8.44422917428381
+"Typical-day transfer",Periodic-DMPC,22,1,0,0.0292,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,23,1,0,0.0153,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,24,1,0,0.847,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,25,2,1,13.3012,1,2,21.6166059968756,1.12706600662193e-09
+"Typical-day transfer",Periodic-DMPC,26,2,0,0.0346,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,27,2,0,0.0151,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,28,2,0,0.0132,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,29,2,1,35.234,1,9,0.0987196242831959,18.237253166372
+"Typical-day transfer",Periodic-DMPC,30,2,0,0.0379,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,31,2,0,0.0147,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,32,2,0,0.0132,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,33,2,1,33.1582,1,8,0.143042840811123,19.2241201946223
+"Typical-day transfer",Periodic-DMPC,34,2,0,0.0309,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,35,2,0,0.0157,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,36,2,0,0.0132,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,37,2,1,64.3276,1,16,16.1219161861158,15.9591693317968
+"Typical-day transfer",Periodic-DMPC,38,2,0,0.03,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,39,2,0,0.015,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,40,2,0,0.0133,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,41,2,1,68.8005,1,19,22.1277458585889,11.6967420077173
+"Typical-day transfer",Periodic-DMPC,42,2,0,0.0284,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,43,2,0,0.0153,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,44,2,0,0.0133,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,45,2,1,9.3599,1,2,0.146398524884711,7.9596355726386
+"Typical-day transfer",Periodic-DMPC,46,2,0,0.0278,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,47,2,0,0.0147,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,48,2,0,0.0302,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,49,3,1,9.3926,1,2,21.1824317548182,1.74829352880235e-12
+"Typical-day transfer",Periodic-DMPC,50,3,0,0.0286,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,51,3,0,0.0147,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,52,3,0,0.0141,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,53,3,1,34.328,1,9,0.101920310791533,18.6063935685157
+"Typical-day transfer",Periodic-DMPC,54,3,0,0.0304,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,55,3,0,0.0145,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,56,3,0,0.013,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,57,3,1,36.4074,1,10,6.62483849077114,12.2061211032403
+"Typical-day transfer",Periodic-DMPC,58,3,0,0.03,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,59,3,0,0.0151,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,60,3,0,0.0131,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,61,3,1,37.9476,1,10,2.08515485631093e-08,21.3419798211
+"Typical-day transfer",Periodic-DMPC,62,3,0,0.0299,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,63,3,0,0.0161,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,64,3,0,0.0136,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,65,3,1,14.5457,1,3,14.4896482921196,16.765870122458
+"Typical-day transfer",Periodic-DMPC,66,3,0,0.0299,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,67,3,0,0.0147,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,68,3,0,0.0135,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,69,3,1,13.7236,1,3,4.77858848853965e-05,0.0686378912873806
+"Typical-day transfer",Periodic-DMPC,70,3,0,0.0286,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,71,3,0,0.015,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,72,3,0,0.0293,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,73,4,1,16.7525,1,4,16.2527879418768,23.8890805818688
+"Typical-day transfer",Periodic-DMPC,74,4,0,0.0289,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,75,4,0,0.0147,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,76,4,0,0.0131,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,77,4,1,48.1392,1,9,0.102851849563258,18.7903228914876
+"Typical-day transfer",Periodic-DMPC,78,4,0,0.0298,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,79,4,0,0.0153,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,80,4,0,0.0131,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,81,4,1,52.6622,1,9,0.107578734887015,18.7304533691262
+"Typical-day transfer",Periodic-DMPC,82,4,0,0.0575,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,83,4,0,0.0403,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,84,4,0,0.0372,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,85,4,1,96.4363,1,21,17.253143583128,21.6097041923089
+"Typical-day transfer",Periodic-DMPC,86,4,0,0.0324,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,87,4,0,0.0154,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,88,4,0,0.0134,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,89,4,1,43.224,1,11,21.0753126616817,15.1171617036307
+"Typical-day transfer",Periodic-DMPC,90,4,0,0.0326,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,91,4,0,0.0154,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,92,4,0,0.0134,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,93,4,1,39.1701,1,12,3.28558029365621e-10,2.8401700546965e-08
+"Typical-day transfer",Periodic-DMPC,94,4,0,0.0297,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,95,4,0,0.0146,1,NaN,NaN,NaN
+"Typical-day transfer",Periodic-DMPC,96,4,0,0.126,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,1,1,1,19.7802,1,4,25.992049783937,6.92022325149298
+"Typical-day transfer",ET-DMPC,2,1,0,0.9869,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,3,1,0,1.0672,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,4,1,0,0.0316,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,5,1,0,0.0145,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,6,1,0,0.0128,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,7,1,0,0.0127,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,8,1,0,0.0126,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,9,1,1,38.5084,1,10,0.115295479451745,18.7085219807271
+"Typical-day transfer",ET-DMPC,10,1,0,0.0329,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,11,1,0,0.0146,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,12,1,1,59.5018,1,16,21.6999044018019,12.3002950780873
+"Typical-day transfer",ET-DMPC,13,1,0,0.0343,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,14,1,0,0.0146,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,15,1,1,40.8814,1,11,0.0961881376291607,17.7339579467351
+"Typical-day transfer",ET-DMPC,16,1,0,0.033,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,17,1,1,29.7306,1,8,24.7281196842012,20.6047629177168
+"Typical-day transfer",ET-DMPC,18,1,0,0.0344,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,19,1,1,15.8781,1,4,0.0373196531063573,14.260735933771
+"Typical-day transfer",ET-DMPC,20,1,0,0.0344,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,21,1,1,8.5381,1,2,0.124025196822658,2.05619899316174e-09
+"Typical-day transfer",ET-DMPC,22,1,0,0.0344,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,23,1,0,0.1416,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,24,1,0,0.027,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,25,2,1,10.774,1,2,21.6166059969422,1.12706600657992e-09
+"Typical-day transfer",ET-DMPC,26,2,0,0.0372,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,27,2,0,0.0166,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,28,2,0,0.0135,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,29,2,0,0.0128,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,30,2,0,0.0128,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,31,2,0,0.0124,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,32,2,0,0.0123,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,33,2,1,38.3499,1,10,0.114081216710685,18.6048234702755
+"Typical-day transfer",ET-DMPC,34,2,0,0.0359,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,35,2,1,49.0687,1,14,20.1020307927201,11.2746082041395
+"Typical-day transfer",ET-DMPC,36,2,0,0.0342,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,37,2,1,45.9522,1,12,9.09494701772928e-13,9.69994321068679e-08
+"Typical-day transfer",ET-DMPC,38,2,1,48.4489,1,13,0.0878212129897311,15.4633461926416
+"Typical-day transfer",ET-DMPC,39,2,0,0.0545,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,40,2,1,44.7439,1,11,0.0868127894852205,15.7413137867201
+"Typical-day transfer",ET-DMPC,41,2,0,0.0344,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,42,2,1,27.6281,1,7,0.059834776749507,14.6571106047469
+"Typical-day transfer",ET-DMPC,43,2,0,0.0338,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,44,2,1,9.3484,1,2,19.5199529145337,7.65026265928498
+"Typical-day transfer",ET-DMPC,45,2,0,0.0353,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,46,2,1,7.9269,1,2,0.00778214913701797,1.53329876055679e-12
+"Typical-day transfer",ET-DMPC,47,2,0,0.0355,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,48,2,0,0.023,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,49,3,1,10.1209,1,2,21.1824317548279,1.74829352661432e-12
+"Typical-day transfer",ET-DMPC,50,3,0,0.0342,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,51,3,0,0.0151,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,52,3,0,0.0132,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,53,3,0,0.0128,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,54,3,0,0.013,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,55,3,0,0.0126,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,56,3,0,0.0129,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,57,3,1,35.555,1,10,0.0623267378517832,12.6962125408817
+"Typical-day transfer",ET-DMPC,58,3,0,0.0335,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,59,3,1,95.6287,1,27,12.4612299467536,22.6540937152937
+"Typical-day transfer",ET-DMPC,60,3,0,0.0342,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,61,3,1,80.3438,1,21,6.48773644427456,15.0667050391425
+"Typical-day transfer",ET-DMPC,62,3,1,21.5324,1,5,0,7.64072808613775e-08
+"Typical-day transfer",ET-DMPC,63,3,1,33.0236,1,8,16.0342368407538,16.4898222200402
+"Typical-day transfer",ET-DMPC,64,3,0,0.0364,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,65,3,1,52.3808,1,14,0.0183266519073188,18.6657784641214
+"Typical-day transfer",ET-DMPC,66,3,0,0.0356,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,67,3,1,23.754,1,6,0.0129190854553767,15.3864798296839
+"Typical-day transfer",ET-DMPC,68,3,0,0.0348,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,69,3,1,9.0097,1,2,0.123618531987853,8.02245966219084
+"Typical-day transfer",ET-DMPC,70,3,0,0.0332,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,71,3,1,5.2278,1,1,0.0145375929767938,9.94363733263101e-12
+"Typical-day transfer",ET-DMPC,72,3,0,1.4974,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,73,4,1,16.7722,1,4,16.2527879418799,23.889080581867
+"Typical-day transfer",ET-DMPC,74,4,0,0.0328,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,75,4,0,0.0146,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,76,4,0,0.0133,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,77,4,0,0.0125,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,78,4,0,0.0126,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,79,4,0,0.0123,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,80,4,0,0.0125,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,81,4,1,39.3048,1,10,2.59068382771333,1.78584617480245
+"Typical-day transfer",ET-DMPC,82,4,0,0.036,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,83,4,1,65.6488,1,17,19.6847549754942,14.7547721922402
+"Typical-day transfer",ET-DMPC,84,4,0,0.0357,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,85,4,0,0.0151,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,86,4,1,41.7258,1,11,0.0951573572544712,16.9170813866973
+"Typical-day transfer",ET-DMPC,87,4,0,0.0563,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,88,4,1,17.8254,1,4,1.45519152283669e-11,0.0143370305873579
+"Typical-day transfer",ET-DMPC,89,4,1,27.6803,1,7,0.124710203219754,20.8197607615683
+"Typical-day transfer",ET-DMPC,90,4,0,0.033,1,NaN,NaN,NaN
+"Typical-day transfer",ET-DMPC,91,4,1,104.1902,1,30,27.4521620854094,0.64897808836874
+"Typical-day transfer",ET-DMPC,92,4,1,40.6816,1,12,0.486491830987898,14.4157632283447
+"Typical-day transfer",ET-DMPC,93,4,1,64.3183,1,20,2.25192724772452e-09,5.87879208126338e-08
+"Typical-day transfer",ET-DMPC,94,4,1,5.2065,1,1,0.0059963691378182,1.49176334336921e-08
+"Typical-day transfer",ET-DMPC,95,4,1,4.7064,1,1,0.0233557354668157,1.81813565229969e-12
+"Typical-day transfer",ET-DMPC,96,4,1,6.6961,1,1,0.0107722312568512,7.16402067551454e-09
+"15-min extreme extrapolation",Centralized MPC,1,1,1,5.7368,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,2,1,1,5.4353,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,3,1,1,5.2825,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,4,1,1,5.7818,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,5,1,1,5.4083,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,6,1,1,5.2973,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,7,1,1,5.3325,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,8,1,1,5.0938,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,9,1,1,5.4216,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,10,1,1,6.0679,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,11,1,1,5.2201,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,12,1,1,5.2469,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,13,1,1,5.6146,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,14,1,1,5.3435,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,15,1,1,5.229,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,16,1,1,5.4323,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,17,1,1,5.1858,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,18,1,1,5.8405,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,19,1,1,5.8532,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,20,1,1,5.2575,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,21,1,1,6.1906,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,22,1,1,5.7904,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,23,1,1,5.151,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,24,1,1,5.0562,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,25,1,1,5.4576,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,26,1,1,5.5482,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,27,1,1,6.0566,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,28,1,1,5.5278,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,29,1,1,5.0487,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,30,1,1,5.1367,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,31,1,1,5.1882,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,32,1,1,5.2966,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,33,1,1,5.2757,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,34,1,1,5.4756,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,35,1,1,5.1204,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,36,1,1,5.0227,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,37,1,1,5.5221,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,38,1,1,5.3887,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,39,1,1,5.2171,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,40,1,1,5.2399,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,41,1,1,5.2221,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,42,1,1,5.1476,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,43,1,1,5.3451,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,44,1,1,5.4337,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,45,1,1,5.2787,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,46,1,1,5.327,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,47,1,1,5.3986,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,48,1,1,5.3753,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,49,1,1,5.6421,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,50,1,1,5.9029,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,51,1,1,5.2707,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,52,1,1,5.5752,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,53,1,1,6.0748,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,54,1,1,5.3344,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,55,1,1,5.2997,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,56,1,1,5.7265,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,57,1,1,5.1908,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,58,1,1,5.3462,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,59,1,1,6.1659,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,60,1,1,5.2451,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,61,1,1,6.3179,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,62,1,1,5.4033,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,63,1,1,5.6794,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,64,1,1,5.5364,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,65,1,1,5.5442,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,66,1,1,4.846,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,67,1,1,5.8784,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,68,1,1,5.4377,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,69,1,1,4.8749,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,70,1,1,6.1867,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,71,1,1,5.1492,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,72,1,1,4.8881,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,73,1,1,4.9724,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,74,1,1,5.1545,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,75,1,1,4.7225,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,76,1,1,4.8356,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,77,1,1,5.0698,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,78,1,1,4.7259,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,79,1,1,4.7164,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,80,1,1,7.6732,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,81,1,1,4.9793,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,82,1,1,7.3416,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,83,1,1,5.7594,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,84,1,1,4.929,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,85,1,1,5.4369,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,86,1,1,5.1962,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,87,1,1,5.0868,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,88,1,1,4.7784,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,89,1,1,5.0875,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,90,1,1,4.7854,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,91,1,1,4.3618,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,92,1,1,4.1124,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,93,1,1,3.9862,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,94,1,1,4.0646,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,95,1,1,3.8537,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,96,1,1,6.6967,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,97,2,1,5.9798,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,98,2,1,5.604,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,99,2,1,5.8648,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,100,2,1,5.6476,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,101,2,1,5.1708,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,102,2,1,5.3214,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,103,2,1,5.03,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,104,2,1,5.1619,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,105,2,1,5.1068,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,106,2,1,5.4884,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,107,2,1,5.0446,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,108,2,1,5.0692,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,109,2,1,5.1285,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,110,2,1,4.9883,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,111,2,1,5.1401,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,112,2,1,5.5649,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,113,2,1,5.2918,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,114,2,1,5.8108,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,115,2,1,5.5751,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,116,2,1,5.4586,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,117,2,1,5.1115,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,118,2,1,5.3116,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,119,2,1,5.0038,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,120,2,1,4.859,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,121,2,1,5.334,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,122,2,1,5.5968,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,123,2,1,4.9905,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,124,2,1,5.0835,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,125,2,1,4.8894,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,126,2,1,4.9592,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,127,2,1,4.9602,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,128,2,1,5.3763,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,129,2,1,5.0113,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,130,2,1,6.4033,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,131,2,1,5.7371,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,132,2,1,5.2527,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,133,2,1,5.9247,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,134,2,1,5.8511,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,135,2,1,5.9186,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,136,2,1,7.177,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,137,2,1,5.6151,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,138,2,1,6.6872,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,139,2,1,5.6128,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,140,2,1,5.7828,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,141,2,1,5.7902,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,142,2,1,5.6043,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,143,2,1,5.956,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,144,2,1,5.6923,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,145,2,1,5.7676,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,146,2,1,6.1297,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,147,2,1,8.0266,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,148,2,1,6.2198,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,149,2,1,5.8635,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,150,2,1,5.9522,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,151,2,1,5.6296,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,152,2,1,5.5449,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,153,2,1,5.878,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,154,2,1,5.5379,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,155,2,1,6.0917,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,156,2,1,5.6282,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,157,2,1,5.5318,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,158,2,1,5.6575,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,159,2,1,5.5683,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,160,2,1,5.4319,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,161,2,1,5.2315,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,162,2,1,5.6051,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,163,2,1,5.4603,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,164,2,1,5.2771,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,165,2,1,5.8384,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,166,2,1,5.6056,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,167,2,1,6.3315,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,168,2,1,5.5812,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,169,2,1,5.7612,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,170,2,1,6.9183,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,171,2,1,5.8245,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,172,2,1,5.651,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,173,2,1,7.1192,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,174,2,1,5.7928,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,175,2,1,5.7211,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,176,2,1,5.2494,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,177,2,1,5.3831,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,178,2,1,5.2777,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,179,2,1,5.2876,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,180,2,1,4.771,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,181,2,1,4.9023,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,182,2,1,4.95,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,183,2,1,4.7399,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,184,2,1,4.6643,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,185,2,1,5.6126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,186,2,1,4.8033,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,187,2,1,4.6083,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,188,2,1,4.7075,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,189,2,1,4.2157,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,190,2,1,3.8147,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,191,2,1,3.2638,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,192,2,1,3.7852,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,193,3,1,5.5781,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,194,3,1,5.2667,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,195,3,1,4.9982,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,196,3,1,5.7723,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,197,3,1,5.3947,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,198,3,1,5.2721,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,199,3,1,5.2546,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,200,3,1,5.0369,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,201,3,1,5.1907,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,202,3,1,5.9523,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,203,3,1,5.6216,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,204,3,1,5.4147,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,205,3,1,5.4217,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,206,3,1,5.2219,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,207,3,1,5.3189,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,208,3,1,5.1132,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,209,3,1,5.0697,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,210,3,1,5.1283,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,211,3,1,5.1497,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,212,3,1,5.0619,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,213,3,1,6.1614,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,214,3,1,5.5241,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,215,3,1,5.9176,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,216,3,1,5.7462,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,217,3,1,5.8798,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,218,3,1,5.2372,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,219,3,1,4.9986,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,220,3,1,4.8046,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,221,3,1,5.3549,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,222,3,1,5.4849,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,223,3,1,5.4477,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,224,3,1,5.1898,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,225,3,1,5.1043,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,226,3,1,5.066,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,227,3,1,5.3074,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,228,3,1,5.2733,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,229,3,1,4.9964,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,230,3,1,5.2109,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,231,3,1,5.3405,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,232,3,1,5.1183,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,233,3,1,5.1917,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,234,3,1,5.0404,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,235,3,1,5.5001,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,236,3,1,6.0518,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,237,3,1,5.4955,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,238,3,1,5.1454,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,239,3,1,5.6443,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,240,3,1,5.6206,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,241,3,1,5.6616,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,242,3,1,6.8935,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,243,3,1,5.6326,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,244,3,1,6.0106,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,245,3,1,5.7055,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,246,3,1,5.2756,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,247,3,1,5.9727,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,248,3,1,5.9381,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,249,3,1,6.3878,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,250,3,1,5.7307,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,251,3,1,5.6093,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,252,3,1,5.9923,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,253,3,1,6.1872,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,254,3,1,5.5381,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,255,3,1,5.4914,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,256,3,1,5.7525,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,257,3,1,5.2887,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,258,3,1,5.2771,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,259,3,1,5.0891,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,260,3,1,5.0797,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,261,3,1,5.6785,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,262,3,1,5.0164,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,263,3,1,4.9871,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,264,3,1,4.7985,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,265,3,1,5.0771,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,266,3,1,5.308,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,267,3,1,5.6604,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,268,3,1,5.6876,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,269,3,1,6.2576,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,270,3,1,5.3161,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,271,3,1,5.6477,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,272,3,1,7.9241,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,273,3,1,5.1881,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,274,3,1,4.8269,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,275,3,1,4.8225,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,276,3,1,5.4655,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,277,3,1,14.8651,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,278,3,1,7.9347,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,279,3,1,8.4776,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,280,3,1,9.9077,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,281,3,1,8.2704,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,282,3,1,6.7693,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,283,3,1,5.0388,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,284,3,1,5.4806,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,285,3,1,8.4634,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,286,3,1,7.8273,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,287,3,1,7.3289,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,288,3,1,6.3925,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,289,4,1,11.2487,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,290,4,1,9.9034,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,291,4,1,9.3182,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,292,4,1,5.6646,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,293,4,1,9.3154,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,294,4,1,10.2781,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,295,4,1,7.3648,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,296,4,1,7.9549,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,297,4,1,10.0792,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,298,4,1,9.9343,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,299,4,1,8.5083,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,300,4,1,5.7564,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,301,4,1,6.1553,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,302,4,1,5.6577,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,303,4,1,6.9588,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,304,4,1,5.7237,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,305,4,1,5.4373,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,306,4,1,5.3936,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,307,4,1,5.5229,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,308,4,1,5.4848,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,309,4,1,6.7751,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,310,4,1,5.8483,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,311,4,1,5.3694,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,312,4,1,7.246,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,313,4,1,5.5086,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,314,4,1,5.4309,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,315,4,1,5.4565,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,316,4,1,6.7538,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,317,4,1,6.0168,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,318,4,1,5.6956,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,319,4,1,5.8338,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,320,4,1,7.0829,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,321,4,1,5.594,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,322,4,1,5.5008,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,323,4,1,6.1954,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,324,4,1,5.2931,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,325,4,1,5.4206,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,326,4,1,6.5295,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,327,4,1,5.9886,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,328,4,1,5.5248,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,329,4,1,5.7422,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,330,4,1,5.357,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,331,4,1,5.1639,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,332,4,1,5.2437,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,333,4,1,5.1626,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,334,4,1,5.2706,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,335,4,1,5.4836,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,336,4,1,5.2651,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,337,4,1,5.8633,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,338,4,1,6.0465,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,339,4,1,5.4161,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,340,4,1,5.5334,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,341,4,1,5.8775,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,342,4,1,5.2723,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,343,4,1,5.0655,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,344,4,1,5.2654,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,345,4,1,5.2162,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,346,4,1,5.2873,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,347,4,1,4.8191,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,348,4,1,4.818,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,349,4,1,4.9157,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,350,4,1,4.958,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,351,4,1,5.1118,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,352,4,1,5.0906,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,353,4,1,4.8521,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,354,4,1,5.1268,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,355,4,1,5.0107,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,356,4,1,4.864,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,357,4,1,5.2969,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,358,4,1,5.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,359,4,1,4.8957,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,360,4,1,6.5722,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,361,4,1,5.1244,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,362,4,1,5.3143,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,363,4,1,5.0694,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,364,4,1,5.0653,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,365,4,1,4.9006,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,366,4,1,4.8853,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,367,4,1,4.7186,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,368,4,1,4.6703,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,369,4,1,4.7561,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,370,4,1,4.9532,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,371,4,1,5.0039,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,372,4,1,4.8279,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,373,4,1,4.9793,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,374,4,1,5.0923,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,375,4,1,5.5439,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,376,4,1,5.4642,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,377,4,1,4.9445,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,378,4,1,5.0787,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,379,4,1,4.4113,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,380,4,1,4.2075,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,381,4,1,4.3064,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,382,4,1,4.0172,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,383,4,1,3.4669,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Centralized MPC,384,4,1,3.286,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,1,1,1,7.2063,1,1,10.7961818857143,1.20158729847615e-08
+"15-min extreme extrapolation",Periodic-DMPC,2,1,0,0.0315,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,3,1,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,4,1,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,5,1,1,6.8013,1,1,13.6983828256973,1.79717975814409e-08
+"15-min extreme extrapolation",Periodic-DMPC,6,1,0,0.0344,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,7,1,0,0.0153,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,8,1,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,9,1,1,6.5902,1,1,21.2530031538299,1.65985246309446e-11
+"15-min extreme extrapolation",Periodic-DMPC,10,1,0,0.0311,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,11,1,0,0.0148,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,12,1,0,0.0128,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,13,1,1,9.8324,1,2,5.25457642666563,5.39215566974699
+"15-min extreme extrapolation",Periodic-DMPC,14,1,0,0.0304,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,15,1,0,0.0152,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,16,1,0,0.0136,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,17,1,1,9.2476,1,2,1.36062197486496,4.72757847083098e-09
+"15-min extreme extrapolation",Periodic-DMPC,18,1,0,0.0305,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,19,1,0,0.0329,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,20,1,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,21,1,1,6.5027,1,1,23.2271754535369,1.75102334682798e-08
+"15-min extreme extrapolation",Periodic-DMPC,22,1,0,0.029,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,23,1,0,0.0148,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,24,1,0,0.0134,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,25,1,1,6.0629,1,1,13.2417112182756,5.07471765470885e-10
+"15-min extreme extrapolation",Periodic-DMPC,26,1,0,0.0286,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,27,1,0,0.0152,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,28,1,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,29,1,1,8.9699,1,2,17.2207364974495,20.7305968504783
+"15-min extreme extrapolation",Periodic-DMPC,30,1,0,0.0284,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,31,1,0,0.0147,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,32,1,0,0.0186,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,33,1,1,9.055,1,2,17.0302945561302,21.0897031762786
+"15-min extreme extrapolation",Periodic-DMPC,34,1,0,0.0284,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,35,1,0,0.0151,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,36,1,0,0.0138,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,37,1,1,12.2398,1,3,12.2853740450604,4.01137172859586
+"15-min extreme extrapolation",Periodic-DMPC,38,1,0,0.0286,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,39,1,0,0.0153,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,40,1,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,41,1,1,21.4437,1,6,0.00173986979202062,3.88623313895062
+"15-min extreme extrapolation",Periodic-DMPC,42,1,0,0.0289,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,43,1,0,0.0147,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,44,1,0,0.0132,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,45,1,1,12.2494,1,3,18.2289134407895,16.4287156613268
+"15-min extreme extrapolation",Periodic-DMPC,46,1,0,0.0289,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,47,1,0,0.0152,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,48,1,0,0.0137,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,49,1,1,15.7765,1,4,0.00152288336967001,6.05494039513406
+"15-min extreme extrapolation",Periodic-DMPC,50,1,0,0.0277,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,51,1,0,0.0149,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,52,1,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,53,1,1,19.3538,1,5,0.00177941118157662,4.02511543305204
+"15-min extreme extrapolation",Periodic-DMPC,54,1,0,0.0291,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,55,1,0,0.0156,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,56,1,0,0.0137,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,57,1,1,23.8952,1,4,0.0050520778158951,13.7041242452638
+"15-min extreme extrapolation",Periodic-DMPC,58,1,0,0.0286,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,59,1,0,0.0151,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,60,1,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,61,1,1,15.097,1,4,0.0121405584675168,15.4795315585095
+"15-min extreme extrapolation",Periodic-DMPC,62,1,0,0.0291,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,63,1,0,0.0146,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,64,1,0,0.0134,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,65,1,1,12.1971,1,3,17.5401152986604,4.055998524184
+"15-min extreme extrapolation",Periodic-DMPC,66,1,0,0.0286,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,67,1,0,0.0153,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,68,1,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,69,1,1,12.7762,1,3,0.723958346872959,4.07649673414154
+"15-min extreme extrapolation",Periodic-DMPC,70,1,0,0.0297,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,71,1,0,0.0155,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,72,1,0,0.0132,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,73,1,1,9.155,1,2,24.210723440619,17.9630654826557
+"15-min extreme extrapolation",Periodic-DMPC,74,1,0,0.0291,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,75,1,0,0.0146,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,76,1,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,77,1,1,9.631,1,2,16.5705529899464,18.8262147363393
+"15-min extreme extrapolation",Periodic-DMPC,78,1,0,0.0308,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,79,1,0,0.0148,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,80,1,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,81,1,1,9.2951,1,2,9.84572122152922,20.8016659894474
+"15-min extreme extrapolation",Periodic-DMPC,82,1,0,0.029,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,83,1,0,0.0152,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,84,1,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,85,1,1,9.4452,1,2,22.0967903147321,26.0936658134743
+"15-min extreme extrapolation",Periodic-DMPC,86,1,0,0.0285,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,87,1,0,0.0148,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,88,1,0,0.0134,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,89,1,1,9.1415,1,2,17.3279520911999,0.754873953472468
+"15-min extreme extrapolation",Periodic-DMPC,90,1,0,0.0292,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,91,1,0,0.0153,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,92,1,0,0.0132,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,93,1,1,8.1809,1,2,0.0237608060141455,5.98806075901593e-12
+"15-min extreme extrapolation",Periodic-DMPC,94,1,0,0.029,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,95,1,0,0.0143,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,96,1,0,0.0289,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,97,2,1,6.2807,1,1,11.3759281094944,1.6182991370433e-08
+"15-min extreme extrapolation",Periodic-DMPC,98,2,0,0.0287,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,99,2,0,0.0152,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,100,2,0,0.0132,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,101,2,1,6.1253,1,1,15.6257270954064,2.09372856545723e-08
+"15-min extreme extrapolation",Periodic-DMPC,102,2,0,0.0341,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,103,2,0,0.0147,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,104,2,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,105,2,1,6.4495,1,1,22.7432294138632,4.27948077427314
+"15-min extreme extrapolation",Periodic-DMPC,106,2,0,0.0313,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,107,2,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,108,2,0,0.0128,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,109,2,1,9.5801,1,2,9.39848584779545,2.61543847083126
+"15-min extreme extrapolation",Periodic-DMPC,110,2,0,0.0295,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,111,2,0,0.0152,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,112,2,0,0.0137,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,113,2,1,9.8552,1,2,5.57036417386783,3.14157719499727
+"15-min extreme extrapolation",Periodic-DMPC,114,2,0,0.0308,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,115,2,0,0.0144,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,116,2,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,117,2,1,10.9606,1,2,1.5070728220854,1.12413186919194
+"15-min extreme extrapolation",Periodic-DMPC,118,2,0,0.0328,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,119,2,0,0.0153,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,120,2,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,121,2,1,6.9405,1,1,26.6438424536282,8.95514644954002e-12
+"15-min extreme extrapolation",Periodic-DMPC,122,2,0,0.0307,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,123,2,0,0.0153,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,124,2,0,0.0138,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,125,2,1,6.1124,1,1,11.6804952418554,3.15344487351509e-10
+"15-min extreme extrapolation",Periodic-DMPC,126,2,0,0.0296,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,127,2,0,0.0156,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,128,2,0,0.0143,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,129,2,1,14.8685,1,3,14.6349840271545,15.1747548005794
+"15-min extreme extrapolation",Periodic-DMPC,130,2,0,0.0324,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,131,2,0,0.0152,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,132,2,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,133,2,1,14.4902,1,3,21.2467598946488,10.7605002705041
+"15-min extreme extrapolation",Periodic-DMPC,134,2,0,0.0316,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,135,2,0,0.0144,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,136,2,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,137,2,1,21.3695,1,4,20.9490638467653,14.5055487473543
+"15-min extreme extrapolation",Periodic-DMPC,138,2,0,0.0338,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,139,2,0,0.0158,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,140,2,0,0.0137,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,141,2,1,13.1571,1,3,22.4921393771249,19.446616248683
+"15-min extreme extrapolation",Periodic-DMPC,142,2,0,0.0289,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,143,2,0,0.0152,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,144,2,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,145,2,1,13.6566,1,3,16.8794011788368,18.4321743858804
+"15-min extreme extrapolation",Periodic-DMPC,146,2,0,0.0289,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,147,2,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,148,2,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,149,2,1,17.8515,1,4,0.00318415922915126,8.11338541360529
+"15-min extreme extrapolation",Periodic-DMPC,150,2,0,0.0324,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,151,2,0,0.0146,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,152,2,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,153,2,1,13.2533,1,3,23.199900351402,9.40002643512091
+"15-min extreme extrapolation",Periodic-DMPC,154,2,0,0.0295,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,155,2,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,156,2,0,0.0127,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,157,2,1,15.9052,1,3,20.4571198366524,3.9490299567698
+"15-min extreme extrapolation",Periodic-DMPC,158,2,0,0.0374,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,159,2,0,0.0444,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,160,2,0,0.0151,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,161,2,1,13.6356,1,3,7.82436059421236,3.96570204286831
+"15-min extreme extrapolation",Periodic-DMPC,162,2,0,0.0287,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,163,2,0,0.0145,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,164,2,0,0.0125,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,165,2,1,10.4673,1,2,5.26655612761789,28.7663254049503
+"15-min extreme extrapolation",Periodic-DMPC,166,2,0,0.0279,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,167,2,0,0.0149,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,168,2,0,0.0132,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,169,2,1,10.7746,1,2,18.5426521012332,9.78497638402891
+"15-min extreme extrapolation",Periodic-DMPC,170,2,0,0.0306,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,171,2,0,0.0156,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,172,2,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,173,2,1,9.1388,1,2,14.8614608499537,12.7459954189742
+"15-min extreme extrapolation",Periodic-DMPC,174,2,0,0.0297,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,175,2,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,176,2,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,177,2,1,13.3136,1,3,14.4799695338888,4.42373552470157
+"15-min extreme extrapolation",Periodic-DMPC,178,2,0,0.0608,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,179,2,0,0.0176,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,180,2,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,181,2,1,12.8819,1,3,26.7514486176907,10.5481724734887
+"15-min extreme extrapolation",Periodic-DMPC,182,2,0,0.0298,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,183,2,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,184,2,0,0.0137,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,185,2,1,13.065,1,3,20.4317995288427,20.6774948712853
+"15-min extreme extrapolation",Periodic-DMPC,186,2,0,0.0294,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,187,2,0,0.0154,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,188,2,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,189,2,1,8.3036,1,2,0.0427243065670783,4.28814097268575e-09
+"15-min extreme extrapolation",Periodic-DMPC,190,2,0,0.0286,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,191,2,0,0.0149,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,192,2,0,0.0398,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,193,3,1,8.8358,1,1,11.2036243927459,1.62203458643599e-08
+"15-min extreme extrapolation",Periodic-DMPC,194,3,0,0.0358,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,195,3,0,0.0156,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,196,3,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,197,3,1,6.4207,1,1,15.3498940576258,1.99632032131752e-08
+"15-min extreme extrapolation",Periodic-DMPC,198,3,0,0.0289,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,199,3,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,200,3,0,0.0139,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,201,3,1,6.5716,1,1,22.7385917647319,2.91786026172259
+"15-min extreme extrapolation",Periodic-DMPC,202,3,0,0.0292,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,203,3,0,0.0624,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,204,3,0,0.019,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,205,3,1,9.166,1,2,7.96423105179032,4.09305000409265
+"15-min extreme extrapolation",Periodic-DMPC,206,3,0,0.0281,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,207,3,0,0.0151,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,208,3,0,0.0134,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,209,3,1,9.9636,1,2,4.13466394930704,0.322587050818523
+"15-min extreme extrapolation",Periodic-DMPC,210,3,0,0.029,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,211,3,0,0.0149,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,212,3,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,213,3,1,9.3443,1,2,2.41669812634631,1.11706646758862e-11
+"15-min extreme extrapolation",Periodic-DMPC,214,3,0,0.0302,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,215,3,0,0.0148,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,216,3,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,217,3,1,6.4379,1,1,19.0522823212447,8.74217926890404e-12
+"15-min extreme extrapolation",Periodic-DMPC,218,3,0,0.0279,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,219,3,0,0.0146,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,220,3,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,221,3,1,5.7989,1,1,2.74373859051625,4.26034055341868e-10
+"15-min extreme extrapolation",Periodic-DMPC,222,3,0,0.0265,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,223,3,0,0.0151,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,224,3,0,0.0128,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,225,3,1,6.1301,1,1,10.9035116388007,5.12054529295826e-10
+"15-min extreme extrapolation",Periodic-DMPC,226,3,0,0.0292,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,227,3,0,0.0152,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,228,3,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,229,3,1,9.3157,1,2,11.1214801276305,18.3770291844368
+"15-min extreme extrapolation",Periodic-DMPC,230,3,0,0.0293,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,231,3,0,0.0155,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,232,3,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,233,3,1,11.4088,1,2,22.0957849424841,23.8052034670546
+"15-min extreme extrapolation",Periodic-DMPC,234,3,0,0.0292,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,235,3,0,0.0147,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,236,3,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,237,3,1,14.029,1,3,22.7902145120042,3.91931950912847
+"15-min extreme extrapolation",Periodic-DMPC,238,3,0,0.0304,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,239,3,0,0.0151,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,240,3,0,0.0132,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,241,3,1,18.2478,1,5,0.00172939693867622,3.93199352892769
+"15-min extreme extrapolation",Periodic-DMPC,242,3,0,0.0285,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,243,3,0,0.0153,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,244,3,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,245,3,1,14.7752,1,4,4.19866021631432,23.6212869383855
+"15-min extreme extrapolation",Periodic-DMPC,246,3,0,0.0294,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,247,3,0,0.0149,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,248,3,0,0.0127,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,249,3,1,13.8901,1,3,23.1007444676333,3.93086721716469
+"15-min extreme extrapolation",Periodic-DMPC,250,3,0,0.0288,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,251,3,0,0.0146,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,252,3,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,253,3,1,13.2749,1,3,15.1527018957321,3.92985262030894
+"15-min extreme extrapolation",Periodic-DMPC,254,3,0,0.0296,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,255,3,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,256,3,0,0.0137,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,257,3,1,13.7861,1,3,1.79388567781616,3.92766610705193
+"15-min extreme extrapolation",Periodic-DMPC,258,3,0,0.0306,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,259,3,0,0.0155,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,260,3,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,261,3,1,9.0328,1,2,10.0297872414961,23.8509889561034
+"15-min extreme extrapolation",Periodic-DMPC,262,3,0,0.0282,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,263,3,0,0.0148,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,264,3,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,265,3,1,9.1037,1,2,9.74840900832932,13.6724081069298
+"15-min extreme extrapolation",Periodic-DMPC,266,3,0,0.0295,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,267,3,0,0.0153,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,268,3,0,0.0132,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,269,3,1,9.2482,1,2,3.68262466678246,3.11433325567904
+"15-min extreme extrapolation",Periodic-DMPC,270,3,0,0.0284,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,271,3,0,0.0151,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,272,3,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,273,3,1,13.2276,1,3,18.8620001454674,3.41747914394577
+"15-min extreme extrapolation",Periodic-DMPC,274,3,0,0.0309,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,275,3,0,0.0148,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,276,3,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,277,3,1,13.8466,1,3,6.35799915474182e-06,0.00900241396300826
+"15-min extreme extrapolation",Periodic-DMPC,278,3,0,0.0297,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,279,3,0,0.0154,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,280,3,0,0.0134,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,281,3,1,9.0393,1,2,16.4518775797751,24.5886513221263
+"15-min extreme extrapolation",Periodic-DMPC,282,3,0,0.0282,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,283,3,0,0.0153,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,284,3,0,0.0134,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,285,3,1,8.0208,1,2,0.0123884797764575,3.18845323879005e-12
+"15-min extreme extrapolation",Periodic-DMPC,286,3,0,0.0276,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,287,3,0,0.0245,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,288,3,0,0.0288,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,289,4,1,5.941,1,1,10.7474887861478,1.64954779952339e-08
+"15-min extreme extrapolation",Periodic-DMPC,290,4,0,0.0281,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,291,4,0,0.0149,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,292,4,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,293,4,1,5.8387,1,1,13.2668253728482,1.78731783419599e-08
+"15-min extreme extrapolation",Periodic-DMPC,294,4,0,0.0269,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,295,4,0,0.0148,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,296,4,0,0.0134,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,297,4,1,5.905,1,1,20.4621792286793,1.26481193183696e-09
+"15-min extreme extrapolation",Periodic-DMPC,298,4,0,0.0287,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,299,4,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,300,4,0,0.0138,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,301,4,1,9.1322,1,2,4.88243474622818,4.37445039864181
+"15-min extreme extrapolation",Periodic-DMPC,302,4,0,0.0284,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,303,4,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,304,4,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,305,4,1,9.0099,1,2,1.67012606644162,1.22762624133201e-11
+"15-min extreme extrapolation",Periodic-DMPC,306,4,0,0.0278,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,307,4,0,0.0147,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,308,4,0,0.0134,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,309,4,1,6.0865,1,1,19.939304360209,1.74991639816187e-08
+"15-min extreme extrapolation",Periodic-DMPC,310,4,0,0.0271,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,311,4,0,0.0153,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,312,4,0,0.0132,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,313,4,1,6.0221,1,1,13.5512079621391,1.9338108878417e-08
+"15-min extreme extrapolation",Periodic-DMPC,314,4,0,0.0346,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,315,4,0,0.0166,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,316,4,0,0.0132,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,317,4,1,6.2813,1,1,23.1176367459248,3.5643130517531e-10
+"15-min extreme extrapolation",Periodic-DMPC,318,4,0,0.0277,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,319,4,0,0.0148,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,320,4,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,321,4,1,9.2162,1,2,10.892450773949,18.3851597471527
+"15-min extreme extrapolation",Periodic-DMPC,322,4,0,0.0343,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,323,4,0,0.0147,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,324,4,0,0.0128,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,325,4,1,10.0901,1,2,15.4078216911767,18.3803529380916
+"15-min extreme extrapolation",Periodic-DMPC,326,4,0,0.0273,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,327,4,0,0.0148,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,328,4,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,329,4,1,19.3418,1,5,6.55163812901932,14.0223199087968
+"15-min extreme extrapolation",Periodic-DMPC,330,4,0,0.0296,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,331,4,0,0.0155,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,332,4,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,333,4,1,18.8629,1,5,0.00173108265797969,3.92554361031586
+"15-min extreme extrapolation",Periodic-DMPC,334,4,0,0.0294,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,335,4,0,0.0148,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,336,4,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,337,4,1,15.4839,1,4,0.00222470131973603,6.88108694727412
+"15-min extreme extrapolation",Periodic-DMPC,338,4,0,0.0297,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,339,4,0,0.0154,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,340,4,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,341,4,1,15.3166,1,4,0.00352232167641629,8.54514197361361
+"15-min extreme extrapolation",Periodic-DMPC,342,4,0,0.0296,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,343,4,0,0.0156,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,344,4,0,0.0134,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,345,4,1,12.5058,1,3,10.7285583816436,4.10806530763176
+"15-min extreme extrapolation",Periodic-DMPC,346,4,0,0.0285,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,347,4,0,0.0147,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,348,4,0,0.0128,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,349,4,1,14.8873,1,4,0.0126075971612232,15.8869328629344
+"15-min extreme extrapolation",Periodic-DMPC,350,4,0,0.028,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,351,4,0,0.051,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,352,4,0,0.0146,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,353,4,1,12.1917,1,3,10.564830436197,3.98986484072275
+"15-min extreme extrapolation",Periodic-DMPC,354,4,0,0.031,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,355,4,0,0.0151,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,356,4,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,357,4,1,13.6179,1,3,5.49324116904538,2.59457362779273
+"15-min extreme extrapolation",Periodic-DMPC,358,4,0,0.0277,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,359,4,0,0.0148,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,360,4,0,0.0134,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,361,4,1,12.6056,1,3,24.3032861204427,16.3722067286898
+"15-min extreme extrapolation",Periodic-DMPC,362,4,0,0.0282,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,363,4,0,0.0145,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,364,4,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,365,4,1,12.4175,1,3,19.5305216192104,4.56602566041955
+"15-min extreme extrapolation",Periodic-DMPC,366,4,0,0.0668,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,367,4,0,0.0152,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,368,4,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,369,4,1,12.9121,1,3,13.8855957464853,13.0766385862526
+"15-min extreme extrapolation",Periodic-DMPC,370,4,0,0.0288,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,371,4,0,0.0148,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,372,4,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,373,4,1,9.102,1,2,20.1644990120639,22.6874681595848
+"15-min extreme extrapolation",Periodic-DMPC,374,4,0,0.0283,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,375,4,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,376,4,0,0.0127,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,377,4,1,10.4029,1,2,13.7521294090853,3.32716084977228e-10
+"15-min extreme extrapolation",Periodic-DMPC,378,4,0,0.0436,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,379,4,0,0.0153,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,380,4,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,381,4,1,10.0529,1,2,0.0204329472149848,4.98011242854e-11
+"15-min extreme extrapolation",Periodic-DMPC,382,4,0,0.0281,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,383,4,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",Periodic-DMPC,384,4,0,0.028,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,1,1,1,7.0733,1,1,10.7961818857143,1.20158729847615e-08
+"15-min extreme extrapolation",ET-DMPC,2,1,0,0.0394,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,3,1,0,0.0488,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,4,1,0,0.0167,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,5,1,0,0.0555,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,6,1,0,0.0164,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,7,1,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,8,1,0,0.0127,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,9,1,1,6.7546,1,1,14.6104708776516,2.08850661320248e-08
+"15-min extreme extrapolation",ET-DMPC,10,1,0,0.0378,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,11,1,0,0.0153,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,12,1,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,13,1,0,0.0125,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,14,1,0,0.0122,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,15,1,0,0.0125,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,16,1,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,17,1,1,6.3934,1,1,18.7929496572323,1.96727397429559e-08
+"15-min extreme extrapolation",ET-DMPC,18,1,0,0.031,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,19,1,0,0.0141,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,20,1,0,0.0123,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,21,1,0,0.0124,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,22,1,0,0.0125,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,23,1,0,0.0127,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,24,1,0,0.0122,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,25,1,1,6.0185,1,1,23.64231259761,3.32416994993371e-10
+"15-min extreme extrapolation",ET-DMPC,26,1,0,0.0312,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,27,1,0,0.0153,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,28,1,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,29,1,0,0.0125,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,30,1,1,9.0281,1,2,19.9022138186389,20.6635886107895
+"15-min extreme extrapolation",ET-DMPC,31,1,0,0.0359,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,32,1,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,33,1,0,0.1777,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,34,1,1,9.3664,1,2,17.6304876623728,21.4415507434683
+"15-min extreme extrapolation",ET-DMPC,35,1,0,0.0317,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,36,1,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,37,1,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,38,1,1,9.551,1,2,17.1464562452174,18.377407866967
+"15-min extreme extrapolation",ET-DMPC,39,1,0,0.0366,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,40,1,0,0.0187,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,41,1,0,0.0197,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,42,1,1,19.5238,1,4,16.2416639420545,8.20423171571878
+"15-min extreme extrapolation",ET-DMPC,43,1,0,0.3056,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,44,1,0,0.0425,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,45,1,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,46,1,1,15.507,1,3,17.0221877732561,18.2124795430772
+"15-min extreme extrapolation",ET-DMPC,47,1,0,0.0361,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,48,1,0,0.0154,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,49,1,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,50,1,0,0.0154,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,51,1,1,24.569,1,6,0.00178078441119582,4.0246597160564
+"15-min extreme extrapolation",ET-DMPC,52,1,0,0.04,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,53,1,1,16.522,1,4,0.000829809182889533,4.96071290759806
+"15-min extreme extrapolation",ET-DMPC,54,1,0,0.0348,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,55,1,0,0.0154,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,56,1,0,0.0134,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,57,1,1,16.4338,1,4,0.00502394566956858,13.6325791913578
+"15-min extreme extrapolation",ET-DMPC,58,1,1,15.4719,1,4,0.0050303103289531,13.6542129173502
+"15-min extreme extrapolation",ET-DMPC,59,1,0,0.0359,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,60,1,0,0.016,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,61,1,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,62,1,1,18.3207,1,5,0.00182125967659025,4.13846224816273
+"15-min extreme extrapolation",ET-DMPC,63,1,0,0.0592,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,64,1,0,0.0159,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,65,1,0,0.0128,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,66,1,0,0.012,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,67,1,1,14.1825,1,3,5.4562799930065,4.15868906878862
+"15-min extreme extrapolation",ET-DMPC,68,1,0,0.0684,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,69,1,1,11.331,1,2,13.1280415616651,20.0999708236488
+"15-min extreme extrapolation",ET-DMPC,70,1,0,0.0366,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,71,1,1,9.5799,1,2,20.8809404032636,16.8325986118433
+"15-min extreme extrapolation",ET-DMPC,72,1,0,0.0416,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,73,1,1,9.6636,1,2,10.293919620575,21.1259181541836
+"15-min extreme extrapolation",ET-DMPC,74,1,0,0.0344,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,75,1,1,12.4377,1,3,8.79988176569615,14.0043846532735
+"15-min extreme extrapolation",ET-DMPC,76,1,0,0.0365,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,77,1,0,0.0143,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,78,1,1,13.0265,1,3,13.5321558121785,7.27459304689656
+"15-min extreme extrapolation",ET-DMPC,79,1,0,0.036,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,80,1,0,0.0147,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,81,1,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,82,1,0,0.0136,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,83,1,0,0.0137,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,84,1,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,85,1,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,86,1,1,12.0464,1,2,18.9830111978803,20.0612882935416
+"15-min extreme extrapolation",ET-DMPC,87,1,0,0.0371,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,88,1,0,0.0145,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,89,1,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,90,1,0,0.0128,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,91,1,0,0.0179,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,92,1,0,0.0127,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,93,1,1,11.0801,1,2,0.0327144345700043,18.2577045009247
+"15-min extreme extrapolation",ET-DMPC,94,1,0,0.0352,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,95,1,0,0.0148,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,96,1,0,0.0225,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,97,2,1,8.5911,1,1,11.3759281094815,1.61829913704026e-08
+"15-min extreme extrapolation",ET-DMPC,98,2,0,0.0445,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,99,2,0,0.0161,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,100,2,0,0.0185,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,101,2,0,0.0134,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,102,2,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,103,2,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,104,2,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,105,2,1,6.9555,1,1,18.4921632253809,2.1092288568645e-08
+"15-min extreme extrapolation",ET-DMPC,106,2,0,0.0338,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,107,2,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,108,2,0,0.0497,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,109,2,0,0.0136,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,110,2,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,111,2,0,0.0132,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,112,2,0,0.0127,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,113,2,1,6.4457,1,1,23.3426179434922,0.318860653193009
+"15-min extreme extrapolation",ET-DMPC,114,2,0,0.0342,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,115,2,0,0.0156,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,116,2,0,0.0136,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,117,2,0,0.0128,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,118,2,0,0.0124,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,119,2,0,0.0127,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,120,2,0,0.0125,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,121,2,1,10.2503,1,2,10.0313219015522,1.00411088446715e-12
+"15-min extreme extrapolation",ET-DMPC,122,2,0,0.0348,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,123,2,0,0.0147,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,124,2,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,125,2,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,126,2,0,0.0125,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,127,2,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,128,2,0,0.0128,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,129,2,1,9.9214,1,2,24.2861373321108,23.9750876285736
+"15-min extreme extrapolation",ET-DMPC,130,2,0,0.0354,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,131,2,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,132,2,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,133,2,0,0.0125,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,134,2,1,14.0721,1,3,19.6597936542928,7.87905783518039
+"15-min extreme extrapolation",ET-DMPC,135,2,0,0.0741,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,136,2,0,0.0158,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,137,2,0,0.014,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,138,2,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,139,2,0,0.0127,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,140,2,1,15.3888,1,4,17.6424253978477,17.4396738730501
+"15-min extreme extrapolation",ET-DMPC,141,2,0,0.0352,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,142,2,0,0.0145,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,143,2,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,144,2,0,0.0132,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,145,2,0,0.0125,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,146,2,1,16.4239,1,4,0.0045669415351363,9.93028291096722
+"15-min extreme extrapolation",ET-DMPC,147,2,0,0.0354,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,148,2,0,0.0145,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,149,2,0,0.0138,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,150,2,1,18.208,1,4,0.00611509475025336,12.0432232811411
+"15-min extreme extrapolation",ET-DMPC,151,2,0,0.0352,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,152,2,0,0.0155,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,153,2,0,0.014,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,154,2,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,155,2,1,12.4097,1,3,22.5756982487687,3.9599857594493
+"15-min extreme extrapolation",ET-DMPC,156,2,0,0.0315,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,157,2,1,15.8949,1,4,9.46775420198133,16.7670169378103
+"15-min extreme extrapolation",ET-DMPC,158,2,0,0.0354,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,159,2,0,0.0643,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,160,2,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,161,2,0,0.0137,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,162,2,1,12.9513,1,3,1.32365542676541,3.99430255395296
+"15-min extreme extrapolation",ET-DMPC,163,2,0,0.037,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,164,2,0,0.0156,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,165,2,1,11.2117,1,2,3.80595013914811,21.7986962381952
+"15-min extreme extrapolation",ET-DMPC,166,2,0,0.0375,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,167,2,0,0.0157,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,168,2,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,169,2,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,170,2,0,0.0128,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,171,2,0,0.0124,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,172,2,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,173,2,1,13.6464,1,3,24.2508494646588,9.43047143383408
+"15-min extreme extrapolation",ET-DMPC,174,2,0,0.035,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,175,2,1,8.9834,1,2,13.3710511274023,27.269260893018
+"15-min extreme extrapolation",ET-DMPC,176,2,0,0.0346,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,177,2,0,0.0157,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,178,2,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,179,2,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,180,2,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,181,2,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,182,2,0,0.0125,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,183,2,1,16.5062,1,4,0.000925607898967171,4.89674066318542
+"15-min extreme extrapolation",ET-DMPC,184,2,0,0.0365,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,185,2,0,0.0163,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,186,2,0,0.0138,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,187,2,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,188,2,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,189,2,0,0.0132,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,190,2,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,191,2,1,5.1488,1,1,1.84309763504438,5.43919542972781e-13
+"15-min extreme extrapolation",ET-DMPC,192,2,0,0.0272,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,193,3,1,6.0249,1,1,11.2036243932209,1.62203458640509e-08
+"15-min extreme extrapolation",ET-DMPC,194,3,0,0.0333,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,195,3,0,0.0159,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,196,3,0,0.0189,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,197,3,0,0.0125,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,198,3,0,0.0128,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,199,3,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,200,3,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,201,3,1,5.8152,1,1,17.5670218586547,1.91965379151238e-08
+"15-min extreme extrapolation",ET-DMPC,202,3,0,0.0316,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,203,3,0,0.0155,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,204,3,0,0.0142,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,205,3,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,206,3,0,0.0127,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,207,3,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,208,3,0,0.0127,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,209,3,1,5.9137,1,1,22.3987874424204,5.78084177129632e-12
+"15-min extreme extrapolation",ET-DMPC,210,3,0,0.0309,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,211,3,0,0.0154,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,212,3,0,0.0132,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,213,3,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,214,3,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,215,3,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,216,3,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,217,3,1,9.5091,1,2,10.3680860953768,1.99011160776491e-13
+"15-min extreme extrapolation",ET-DMPC,218,3,0,0.0328,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,219,3,0,0.0146,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,220,3,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,221,3,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,222,3,0,0.0127,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,223,3,0,0.0127,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,224,3,0,0.0136,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,225,3,1,5.8398,1,1,14.5005883313569,1.19199214491263e-09
+"15-min extreme extrapolation",ET-DMPC,226,3,0,0.0302,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,227,3,0,0.0149,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,228,3,0,0.0134,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,229,3,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,230,3,1,9.6774,1,2,10.963241313676,18.3870715524694
+"15-min extreme extrapolation",ET-DMPC,231,3,0,0.0335,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,232,3,0,0.0149,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,233,3,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,234,3,1,12.713,1,3,13.8838859749293,22.0688278049249
+"15-min extreme extrapolation",ET-DMPC,235,3,0,0.0343,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,236,3,0,0.0147,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,237,3,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,238,3,1,12.6195,1,3,23.5174952301619,6.92236542489543
+"15-min extreme extrapolation",ET-DMPC,239,3,0,0.0352,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,240,3,0,0.0149,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,241,3,0,0.0151,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,242,3,0,0.0142,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,243,3,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,244,3,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,245,3,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,246,3,1,18.9964,1,5,0.00173438584765976,3.9403284289359
+"15-min extreme extrapolation",ET-DMPC,247,3,0,0.0362,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,248,3,0,0.0149,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,249,3,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,250,3,0,0.0128,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,251,3,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,252,3,0,0.0125,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,253,3,1,13.2011,1,3,9.7427946119655,3.95282695240676
+"15-min extreme extrapolation",ET-DMPC,254,3,0,0.0342,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,255,3,0,0.0148,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,256,3,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,257,3,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,258,3,1,12.5532,1,3,3.03305711134392,3.96599765695548
+"15-min extreme extrapolation",ET-DMPC,259,3,0,0.0287,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,260,3,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,261,3,0,0.0132,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,262,3,0,0.0124,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,263,3,0,0.0124,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,264,3,1,10.9308,1,2,24.4660308784441,7.1980120876512
+"15-min extreme extrapolation",ET-DMPC,265,3,0,0.0315,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,266,3,0,0.0155,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,267,3,0,0.0145,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,268,3,1,10.0648,1,2,9.27008333195843,7.75202131141182
+"15-min extreme extrapolation",ET-DMPC,269,3,0,0.0338,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,270,3,0,0.0146,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,271,3,1,6.4839,1,1,23.3692098533345,19.6271294511864
+"15-min extreme extrapolation",ET-DMPC,272,3,0,0.0296,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,273,3,0,0.0148,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,274,3,1,15.6871,1,3,1.81898940354586e-12,1.03952768317463e-07
+"15-min extreme extrapolation",ET-DMPC,275,3,0,0.032,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,276,3,0,0.0149,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,277,3,1,14.1715,1,3,17.7655600515029,22.9028592014366
+"15-min extreme extrapolation",ET-DMPC,278,3,0,0.0322,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,279,3,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,280,3,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,281,3,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,282,3,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,283,3,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,284,3,1,9.1259,1,2,6.73614860461566,19.3091349763409
+"15-min extreme extrapolation",ET-DMPC,285,3,0,0.0286,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,286,3,0,0.0147,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,287,3,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,288,3,0,0.0232,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,289,4,1,6.775,1,1,10.6070578753255,1.6560772596195e-08
+"15-min extreme extrapolation",ET-DMPC,290,4,0,0.0317,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,291,4,0,0.0142,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,292,4,0,0.0132,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,293,4,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,294,4,0,0.0127,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,295,4,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,296,4,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,297,4,1,5.9315,1,1,13.7132132700572,1.78091360310135e-08
+"15-min extreme extrapolation",ET-DMPC,298,4,0,0.0286,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,299,4,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,300,4,0,0.0136,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,301,4,0,0.0128,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,302,4,0,0.0128,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,303,4,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,304,4,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,305,4,1,5.7586,1,1,17.8475368790298,1.66098953018176e-08
+"15-min extreme extrapolation",ET-DMPC,306,4,0,0.0279,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,307,4,0,0.0162,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,308,4,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,309,4,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,310,4,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,311,4,0,0.0123,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,312,4,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,313,4,1,6.0042,1,1,22.5898579804633,1.76588886611436e-08
+"15-min extreme extrapolation",ET-DMPC,314,4,0,0.0287,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,315,4,0,0.0149,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,316,4,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,317,4,0,0.0129,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,318,4,0,0.0125,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,319,4,1,10.0028,1,2,11.1720112045326,9.01705232965151
+"15-min extreme extrapolation",ET-DMPC,320,4,0,0.0305,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,321,4,0,0.0141,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,322,4,0,0.013,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,323,4,1,9.1763,1,2,9.68614657073675,18.3676570891517
+"15-min extreme extrapolation",ET-DMPC,324,4,0,0.0288,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,325,4,0,0.1657,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,326,4,0,0.0457,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,327,4,1,13.2676,1,3,18.3929734881784,13.4801124166765
+"15-min extreme extrapolation",ET-DMPC,328,4,0,0.0314,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,329,4,0,0.0155,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,330,4,1,19.6117,1,5,2.40371176565107,19.0561283587789
+"15-min extreme extrapolation",ET-DMPC,331,4,0,0.0312,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,332,4,0,0.0149,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,333,4,1,20.7548,1,5,0.0017265411288931,3.91981820931467
+"15-min extreme extrapolation",ET-DMPC,334,4,0,0.0311,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,335,4,0,0.0149,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,336,4,0,0.0134,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,337,4,1,15.7702,1,4,0.00459888115655924,9.96346815974024
+"15-min extreme extrapolation",ET-DMPC,338,4,0,0.0367,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,339,4,0,0.0149,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,340,4,0,0.0131,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,341,4,1,17.7684,1,4,0.00458834155518103,9.95582926461554
+"15-min extreme extrapolation",ET-DMPC,342,4,0,0.0332,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,343,4,1,13.0119,1,3,17.2704627333024,3.97404151113051
+"15-min extreme extrapolation",ET-DMPC,344,4,0,0.0341,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,345,4,1,13.2758,1,3,21.0208543114668,2.84423393216838
+"15-min extreme extrapolation",ET-DMPC,346,4,0,0.0354,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,347,4,1,12.8603,1,3,14.502995750815,5.96064196845033
+"15-min extreme extrapolation",ET-DMPC,348,4,0,0.0335,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,349,4,1,18.1011,1,4,0.0135270424436288,15.8547663227159
+"15-min extreme extrapolation",ET-DMPC,350,4,0,0.0331,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,351,4,0,0.015,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,352,4,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,353,4,1,13.3863,1,3,9.68942553003352,4.01707628951245
+"15-min extreme extrapolation",ET-DMPC,354,4,0,0.0417,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,355,4,0,0.0144,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,356,4,1,13.8667,1,3,2.88052877537107,6.87020580704915
+"15-min extreme extrapolation",ET-DMPC,357,4,0,0.0324,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,358,4,0,0.0153,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,359,4,1,9.7868,1,2,15.2340278103348,18.2710553115606
+"15-min extreme extrapolation",ET-DMPC,360,4,0,0.0326,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,361,4,1,18.5479,1,5,4.24177775344474,24.0659546124118
+"15-min extreme extrapolation",ET-DMPC,362,4,0,0.032,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,363,4,1,12.504,1,3,21.0646876476385,12.7265341726776
+"15-min extreme extrapolation",ET-DMPC,364,4,0,0.0367,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,365,4,1,12.163,1,3,26.4065050792322,7.95572002894771
+"15-min extreme extrapolation",ET-DMPC,366,4,0,0.0339,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,367,4,1,12.5799,1,3,13.9917937300179,16.3565026361368
+"15-min extreme extrapolation",ET-DMPC,368,4,1,9.2541,1,2,14.5286019968211,19.5226680586075
+"15-min extreme extrapolation",ET-DMPC,369,4,0,0.0328,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,370,4,0,0.0197,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,371,4,0,0.0133,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,372,4,0,0.0123,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,373,4,0,0.0123,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,374,4,0,0.0127,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,375,4,0,0.0125,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,376,4,1,9.3839,1,2,14.5208845042798,1.89827073716119
+"15-min extreme extrapolation",ET-DMPC,377,4,0,0.0314,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,378,4,0,0.0139,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,379,4,0,0.0135,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,380,4,0,0.0128,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,381,4,0,0.0126,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,382,4,1,8.4217,1,2,0.0130116720581876,3.40251904742273e-11
+"15-min extreme extrapolation",ET-DMPC,383,4,0,0.0322,1,NaN,NaN,NaN
+"15-min extreme extrapolation",ET-DMPC,384,4,0,0.0256,1,NaN,NaN,NaN

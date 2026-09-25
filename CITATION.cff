@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software or its accompanying datasets, please cite the associated paper."
+title: "Physics-Informed E-SINDy-MPC for Coordinated Optimal Dispatch of Hydro, Wind, Solar, and Pumped Storage Multi-Energy Systems"
+type: software
+version: 1.0.0
+date-released: 2026-09-24
+authors:
+  - family-names: Feng
+    given-names: Zixi
+  - family-names: Li
+    given-names: Jiqing
+  - family-names: Wang
+    given-names: Bo
+repository-code: "https://github.com/LidiaFeng/Physics-Prior-E-SINDy-MPC-MultiEnergy-Scheduling"
+license: MIT
+keywords:
+  - sparse identification of nonlinear dynamics
+  - ensemble SINDy
+  - physics-informed machine learning
+  - model predictive control
+  - distributed model predictive control
+  - ADMM
+  - active learning
+  - hydro-wind-solar-pumped-storage systems
+preferred-citation:
+  type: article
+  title: "Physics-Informed E-SINDy-MPC for Coordinated Optimal Dispatch of Hydro, Wind, Solar, and Pumped Storage Multi-Energy Systems"
+  authors:
+    - family-names: Feng
+      given-names: Zixi
+    - family-names: Li
+      given-names: Jiqing
+  - family-names: Wang
+    given-names: Bo
+  year: 2026
+  notes: "Manuscript submitted for publication. Update the journal, DOI, volume, issue, and page fields after acceptance."
