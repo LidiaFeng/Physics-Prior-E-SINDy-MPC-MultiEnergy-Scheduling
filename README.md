@@ -11,7 +11,7 @@ The code implements physics-informed ensemble sparse identification, risk-aware 
 
 ## Data layout
 
-Place the English CSV datasets under the following paths:
+Place the CSV datasets under the following paths:
 
 ```text
 data/
@@ -32,7 +32,7 @@ data/
     `-- extreme_15min.csv
 ```
 
-The repository already includes the ten English CSV datasets used by `run_all.m`. Their headers match `load_dataset.m`, including `Time index`, `Window index`, `Scenario index`, `Time resolution_min`, `Load power_MW`, `Wind power_MW`, `PV power_MW`, `Hydropower output_MW`, `Pumped-storage generation_MW`, `Pumped-storage pumping_MW`, `Stored energy_MWh`, and `Net load_MW`.
+The repository already includes the ten CSV datasets used by `run_all.m`. Their headers match `load_dataset.m`, including `Time index`, `Window index`, `Scenario index`, `Time resolution_min`, `Load power_MW`, `Wind power_MW`, `PV power_MW`, `Hydropower output_MW`, `Pumped-storage generation_MW`, `Pumped-storage pumping_MW`, `Stored energy_MWh`, and `Net load_MW`.
 
 ## Running the experiments
 
